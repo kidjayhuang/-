@@ -1,0 +1,15 @@
+.message {
+  height: 140rpx;
+  justify-content: center;
+  align-items: center;
+}
+
+.message__box {
+  width: 300rpx;
+  align-items: center;
+  justify-content: center;
+}
+
+.message__count {
+    padding: 0rpx 10rpx;
+}

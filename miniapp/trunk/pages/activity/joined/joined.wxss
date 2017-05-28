@@ -1,0 +1,4 @@
+/* pages/activity/joined/joined.wxss */
+@import "/templates/message-cell/message-cell.wxss";
+@import "/templates/create-article-button/create-article-button.wxss";
+@import "/templates/activity-cell/activity-cell.wxss";

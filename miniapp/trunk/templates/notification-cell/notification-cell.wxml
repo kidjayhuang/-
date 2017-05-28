@@ -1,0 +1,27 @@
+<template name="notification-cell">
+  <view class="flex__row bg-color__white" style="border-bottom:1rpx solid #e5e5e5;padding:40rpx 30rpx;justify-content:space-between;align-items:center;" data-id="{{item.verify_id}}" data-activity="{{item.activity_id}}" bindtap="{{item.type == 101 && item.result == 100 && item.verify_id != 0 ? show : ''}}">
+    <image class="icon__100 radius__half" src="{{item.user_head}}"></image>
+    <view class="flex__col" style="padding:0 20rpx;flex:1;width:466rpx;word-break:break-all;">
+      <text style="line-height:40rpx;" class="color__black font-size__large font__bold">{{item.user_name}}</text>
+      <text style="line-height:40rpx;" class="color__black font-size__large">{{item.content}}</text>
+      <text style="line-height:40rpx;" class="color__gray font-size__large">{{item.remark}}</text>
+    </view>
+    <block wx:if="{{item.type == 101 && item.verify_id != 0}}">
+      <block wx:if="{{item.result == 100}}">
+        <view class="flex__row radius__15 color__blue" style="width:120rpx;height:60rpx;justify-content:center;align-items:center;border:2rpx solid" data-id="{{item.verify_id}}" catchtap="{{agree}}">
+          <text class="font-size__large">同意</text>
+        </view>
+      </block>
+      <block wx:elif="{{item.result == 101}}">
+        <view class="flex__row" style="width:120rpx;height:60rpx;justify-content:center;align-items:center;">
+          <text class="color__black font-size__large">已同意</text>
+        </view>
+      </block>
+      <block wx:else>
+        <view class="flex__row" style="width:120rpx;height:60rpx;justify-content:center;align-items:center;">
+          <text class="color__black font-size__large">已拒绝</text>
+        </view>
+      </block>
+    </block>
+  </view>
+</template>

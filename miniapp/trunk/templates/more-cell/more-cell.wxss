@@ -1,0 +1,17 @@
+.widget{
+    align-items: center;
+    padding:20rpx 30rpx;
+    justify-content: space-between;
+}
+
+.widget__title {
+    flex-shrink: 1;
+    line-height: 48rpx;
+}
+
+.widget__subtitle {
+    padding-left: 30rpx;
+    flex: 1;
+    text-align: right;
+    line-height: 40rpx;
+}

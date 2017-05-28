@@ -1,0 +1,2279 @@
+INFO - 20170105 10:32:43 --> Config Class Initialized
+INFO - 20170105 10:32:43 --> Hooks Class Initialized
+DEBUG - 20170105 10:32:43 --> UTF-8 Support Enabled
+INFO - 20170105 10:32:43 --> Utf8 Class Initialized
+INFO - 20170105 10:32:43 --> URI Class Initialized
+INFO - 20170105 10:32:43 --> Router Class Initialized
+INFO - 20170105 10:32:43 --> Output Class Initialized
+INFO - 20170105 10:32:43 --> Security Class Initialized
+DEBUG - 20170105 10:32:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 10:32:43 --> Input Class Initialized
+INFO - 20170105 10:32:43 --> Language Class Initialized
+INFO - 20170105 10:32:43 --> Loader Class Initialized
+DEBUG - 20170105 10:32:43 --> cURL Class Initialized
+INFO - 20170105 10:32:43 --> Controller Class Initialized
+INFO - 20170105 10:32:43 --> Helper loaded: util_helper
+INFO - 20170105 10:32:43 --> Helper loaded: form_helper
+INFO - 20170105 10:32:43 --> Form Validation Class Initialized
+INFO - 20170105 10:32:43 --> Model Class Initialized
+INFO - 20170105 10:32:43 --> Database Driver Class Initialized
+DEBUG - 20170105 10:32:43 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> Model Class Initialized
+INFO - 20170105 10:32:44 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 10:32:44 --> Final output sent to browser
+DEBUG - 20170105 10:32:44 --> Total execution time: 1.2855
+INFO - 20170105 10:44:40 --> Config Class Initialized
+INFO - 20170105 10:44:40 --> Hooks Class Initialized
+DEBUG - 20170105 10:44:40 --> UTF-8 Support Enabled
+INFO - 20170105 10:44:40 --> Utf8 Class Initialized
+INFO - 20170105 10:44:40 --> URI Class Initialized
+INFO - 20170105 10:44:40 --> Router Class Initialized
+INFO - 20170105 10:44:40 --> Output Class Initialized
+INFO - 20170105 10:44:40 --> Security Class Initialized
+DEBUG - 20170105 10:44:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 10:44:40 --> Input Class Initialized
+INFO - 20170105 10:44:40 --> Language Class Initialized
+INFO - 20170105 10:44:40 --> Loader Class Initialized
+DEBUG - 20170105 10:44:40 --> cURL Class Initialized
+INFO - 20170105 10:44:40 --> Controller Class Initialized
+INFO - 20170105 10:44:40 --> Helper loaded: util_helper
+INFO - 20170105 10:44:40 --> Helper loaded: form_helper
+INFO - 20170105 10:44:40 --> Form Validation Class Initialized
+INFO - 20170105 10:44:40 --> Model Class Initialized
+INFO - 20170105 10:44:40 --> Database Driver Class Initialized
+DEBUG - 20170105 10:44:40 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> Model Class Initialized
+INFO - 20170105 10:44:41 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 10:44:41 --> Final output sent to browser
+DEBUG - 20170105 10:44:41 --> Total execution time: 0.5324
+INFO - 20170105 11:39:49 --> Config Class Initialized
+INFO - 20170105 11:39:49 --> Hooks Class Initialized
+DEBUG - 20170105 11:39:49 --> UTF-8 Support Enabled
+INFO - 20170105 11:39:49 --> Utf8 Class Initialized
+INFO - 20170105 11:39:49 --> URI Class Initialized
+INFO - 20170105 11:39:49 --> Router Class Initialized
+INFO - 20170105 11:39:49 --> Output Class Initialized
+INFO - 20170105 11:39:49 --> Security Class Initialized
+DEBUG - 20170105 11:39:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 11:39:49 --> Input Class Initialized
+INFO - 20170105 11:39:49 --> Language Class Initialized
+INFO - 20170105 11:39:49 --> Loader Class Initialized
+DEBUG - 20170105 11:39:49 --> cURL Class Initialized
+INFO - 20170105 11:39:49 --> Controller Class Initialized
+INFO - 20170105 11:39:49 --> Helper loaded: util_helper
+INFO - 20170105 11:39:49 --> Helper loaded: form_helper
+INFO - 20170105 11:39:49 --> Form Validation Class Initialized
+INFO - 20170105 11:39:49 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 20170105 11:39:49 --> Model Class Initialized
+INFO - 20170105 11:39:49 --> Database Driver Class Initialized
+DEBUG - 20170105 11:39:49 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 11:39:50 --> Model Class Initialized
+INFO - 20170105 11:39:50 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 11:39:50 --> Final output sent to browser
+DEBUG - 20170105 11:39:50 --> Total execution time: 1.5193
+INFO - 20170105 12:17:41 --> Config Class Initialized
+INFO - 20170105 12:17:41 --> Hooks Class Initialized
+DEBUG - 20170105 12:17:41 --> UTF-8 Support Enabled
+INFO - 20170105 12:17:41 --> Utf8 Class Initialized
+INFO - 20170105 12:17:41 --> URI Class Initialized
+INFO - 20170105 12:17:41 --> Router Class Initialized
+INFO - 20170105 12:17:41 --> Output Class Initialized
+INFO - 20170105 12:17:41 --> Security Class Initialized
+DEBUG - 20170105 12:17:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 12:17:41 --> Input Class Initialized
+INFO - 20170105 12:17:41 --> Language Class Initialized
+INFO - 20170105 12:17:41 --> Loader Class Initialized
+DEBUG - 20170105 12:17:41 --> cURL Class Initialized
+INFO - 20170105 12:17:41 --> Controller Class Initialized
+INFO - 20170105 12:17:41 --> Helper loaded: util_helper
+INFO - 20170105 12:17:41 --> Helper loaded: form_helper
+INFO - 20170105 12:17:41 --> Form Validation Class Initialized
+INFO - 20170105 12:17:41 --> Model Class Initialized
+INFO - 20170105 12:17:41 --> Database Driver Class Initialized
+DEBUG - 20170105 12:17:41 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 12:17:42 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 12:17:42 --> Final output sent to browser
+DEBUG - 20170105 12:17:42 --> Total execution time: 0.6650
+INFO - 20170105 12:33:32 --> Config Class Initialized
+INFO - 20170105 12:33:32 --> Hooks Class Initialized
+DEBUG - 20170105 12:33:32 --> UTF-8 Support Enabled
+INFO - 20170105 12:33:32 --> Utf8 Class Initialized
+INFO - 20170105 12:33:32 --> URI Class Initialized
+INFO - 20170105 12:33:32 --> Router Class Initialized
+INFO - 20170105 12:33:32 --> Output Class Initialized
+INFO - 20170105 12:33:32 --> Security Class Initialized
+DEBUG - 20170105 12:33:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 12:33:32 --> Input Class Initialized
+INFO - 20170105 12:33:32 --> Language Class Initialized
+INFO - 20170105 12:33:32 --> Loader Class Initialized
+DEBUG - 20170105 12:33:32 --> cURL Class Initialized
+INFO - 20170105 12:33:32 --> Controller Class Initialized
+INFO - 20170105 12:33:32 --> Helper loaded: util_helper
+INFO - 20170105 12:33:32 --> Helper loaded: form_helper
+INFO - 20170105 12:33:32 --> Form Validation Class Initialized
+INFO - 20170105 12:33:32 --> Model Class Initialized
+INFO - 20170105 12:33:32 --> Database Driver Class Initialized
+DEBUG - 20170105 12:33:32 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> Model Class Initialized
+INFO - 20170105 12:33:33 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 12:33:33 --> Final output sent to browser
+DEBUG - 20170105 12:33:33 --> Total execution time: 0.7544
+INFO - 20170105 12:33:42 --> Config Class Initialized
+INFO - 20170105 12:33:42 --> Hooks Class Initialized
+DEBUG - 20170105 12:33:42 --> UTF-8 Support Enabled
+INFO - 20170105 12:33:42 --> Utf8 Class Initialized
+INFO - 20170105 12:33:42 --> URI Class Initialized
+INFO - 20170105 12:33:42 --> Router Class Initialized
+INFO - 20170105 12:33:42 --> Output Class Initialized
+INFO - 20170105 12:33:42 --> Security Class Initialized
+DEBUG - 20170105 12:33:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 12:33:42 --> Input Class Initialized
+INFO - 20170105 12:33:42 --> Language Class Initialized
+INFO - 20170105 12:33:42 --> Loader Class Initialized
+DEBUG - 20170105 12:33:42 --> cURL Class Initialized
+INFO - 20170105 12:33:42 --> Controller Class Initialized
+INFO - 20170105 12:33:42 --> Helper loaded: util_helper
+INFO - 20170105 12:33:42 --> Helper loaded: form_helper
+INFO - 20170105 12:33:42 --> Form Validation Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Database Driver Class Initialized
+DEBUG - 20170105 12:33:42 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> Model Class Initialized
+INFO - 20170105 12:33:42 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 12:33:42 --> Final output sent to browser
+DEBUG - 20170105 12:33:42 --> Total execution time: 0.2599
+INFO - 20170105 12:33:46 --> Config Class Initialized
+INFO - 20170105 12:33:46 --> Hooks Class Initialized
+DEBUG - 20170105 12:33:46 --> UTF-8 Support Enabled
+INFO - 20170105 12:33:46 --> Utf8 Class Initialized
+INFO - 20170105 12:33:46 --> URI Class Initialized
+INFO - 20170105 12:33:46 --> Router Class Initialized
+INFO - 20170105 12:33:46 --> Output Class Initialized
+INFO - 20170105 12:33:46 --> Security Class Initialized
+DEBUG - 20170105 12:33:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 12:33:46 --> Input Class Initialized
+INFO - 20170105 12:33:46 --> Language Class Initialized
+INFO - 20170105 12:33:46 --> Loader Class Initialized
+DEBUG - 20170105 12:33:46 --> cURL Class Initialized
+INFO - 20170105 12:33:46 --> Controller Class Initialized
+INFO - 20170105 12:33:46 --> Helper loaded: util_helper
+INFO - 20170105 12:33:46 --> Helper loaded: form_helper
+INFO - 20170105 12:33:46 --> Form Validation Class Initialized
+INFO - 20170105 12:33:46 --> Model Class Initialized
+INFO - 20170105 12:33:46 --> Database Driver Class Initialized
+DEBUG - 20170105 12:33:47 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> Model Class Initialized
+INFO - 20170105 12:33:47 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 12:33:47 --> Final output sent to browser
+DEBUG - 20170105 12:33:47 --> Total execution time: 1.0144
+INFO - 20170105 12:33:57 --> Config Class Initialized
+INFO - 20170105 12:33:57 --> Hooks Class Initialized
+DEBUG - 20170105 12:33:57 --> UTF-8 Support Enabled
+INFO - 20170105 12:33:57 --> Utf8 Class Initialized
+INFO - 20170105 12:33:57 --> URI Class Initialized
+INFO - 20170105 12:33:57 --> Router Class Initialized
+INFO - 20170105 12:33:57 --> Output Class Initialized
+INFO - 20170105 12:33:57 --> Security Class Initialized
+DEBUG - 20170105 12:33:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 12:33:57 --> Input Class Initialized
+INFO - 20170105 12:33:57 --> Language Class Initialized
+INFO - 20170105 12:33:57 --> Loader Class Initialized
+DEBUG - 20170105 12:33:57 --> cURL Class Initialized
+INFO - 20170105 12:33:57 --> Controller Class Initialized
+INFO - 20170105 12:33:57 --> Helper loaded: util_helper
+INFO - 20170105 12:33:57 --> Helper loaded: form_helper
+INFO - 20170105 12:33:57 --> Form Validation Class Initialized
+INFO - 20170105 12:33:57 --> Model Class Initialized
+INFO - 20170105 12:33:57 --> Database Driver Class Initialized
+DEBUG - 20170105 12:33:58 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> Model Class Initialized
+INFO - 20170105 12:33:58 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 12:33:58 --> Final output sent to browser
+DEBUG - 20170105 12:33:58 --> Total execution time: 0.5710
+INFO - 20170105 14:05:47 --> Config Class Initialized
+INFO - 20170105 14:05:47 --> Hooks Class Initialized
+DEBUG - 20170105 14:05:47 --> UTF-8 Support Enabled
+INFO - 20170105 14:05:47 --> Utf8 Class Initialized
+INFO - 20170105 14:05:47 --> URI Class Initialized
+INFO - 20170105 14:05:47 --> Router Class Initialized
+INFO - 20170105 14:05:47 --> Output Class Initialized
+INFO - 20170105 14:05:47 --> Security Class Initialized
+DEBUG - 20170105 14:05:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:05:47 --> Input Class Initialized
+INFO - 20170105 14:05:47 --> Language Class Initialized
+INFO - 20170105 14:05:47 --> Loader Class Initialized
+DEBUG - 20170105 14:05:47 --> cURL Class Initialized
+INFO - 20170105 14:05:47 --> Controller Class Initialized
+INFO - 20170105 14:05:47 --> Helper loaded: util_helper
+INFO - 20170105 14:05:47 --> Helper loaded: form_helper
+INFO - 20170105 14:05:47 --> Form Validation Class Initialized
+INFO - 20170105 14:05:47 --> Model Class Initialized
+INFO - 20170105 14:05:47 --> Database Driver Class Initialized
+DEBUG - 20170105 14:05:47 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+INFO - 20170105 14:05:48 --> Model Class Initialized
+ERROR - 20170105 14:05:48 --> Severity: Warning --> Missing argument 3 for ArticleLikeModel::add(), called in /Users/rayqin/svn/scc/api/trunk/application/models/article/ArticleLogicModel.php on line 246 and defined /Users/rayqin/svn/scc/api/trunk/application/models/article/ArticleLikeModel.php 21
+ERROR - 20170105 14:05:48 --> Severity: Warning --> Missing argument 4 for ArticleLikeModel::add(), called in /Users/rayqin/svn/scc/api/trunk/application/models/article/ArticleLogicModel.php on line 246 and defined /Users/rayqin/svn/scc/api/trunk/application/models/article/ArticleLikeModel.php 21
+ERROR - 20170105 14:05:48 --> Severity: Notice --> Undefined variable: user_id /Users/rayqin/svn/scc/api/trunk/application/models/article/ArticleLikeModel.php 24
+ERROR - 20170105 14:05:48 --> Severity: Notice --> Undefined variable: user_id /Users/rayqin/svn/scc/api/trunk/application/models/article/ArticleLikeModel.php 30
+ERROR - 20170105 14:05:48 --> Query error: Column 'user_id' cannot be null - Invalid query: INSERT INTO `article_like` (`article_id`, `user_id`, `create_time`) VALUES ('10002', NULL, 1483596348)
+ERROR - 20170105 14:05:48 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/system/core/Exceptions.php:271) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 14:05:48 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:05:48 --> Final output sent to browser
+DEBUG - 20170105 14:05:48 --> Total execution time: 1.3687
+INFO - 20170105 14:06:08 --> Config Class Initialized
+INFO - 20170105 14:06:08 --> Hooks Class Initialized
+DEBUG - 20170105 14:06:08 --> UTF-8 Support Enabled
+INFO - 20170105 14:06:08 --> Utf8 Class Initialized
+INFO - 20170105 14:06:08 --> URI Class Initialized
+INFO - 20170105 14:06:08 --> Router Class Initialized
+INFO - 20170105 14:06:08 --> Output Class Initialized
+INFO - 20170105 14:06:08 --> Security Class Initialized
+DEBUG - 20170105 14:06:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:06:08 --> Input Class Initialized
+INFO - 20170105 14:06:08 --> Language Class Initialized
+INFO - 20170105 14:06:08 --> Loader Class Initialized
+DEBUG - 20170105 14:06:08 --> cURL Class Initialized
+INFO - 20170105 14:06:08 --> Controller Class Initialized
+INFO - 20170105 14:06:08 --> Helper loaded: util_helper
+INFO - 20170105 14:06:08 --> Helper loaded: form_helper
+INFO - 20170105 14:06:08 --> Form Validation Class Initialized
+INFO - 20170105 14:06:08 --> Model Class Initialized
+INFO - 20170105 14:06:08 --> Database Driver Class Initialized
+DEBUG - 20170105 14:06:09 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> Model Class Initialized
+INFO - 20170105 14:06:09 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:06:09 --> Final output sent to browser
+DEBUG - 20170105 14:06:09 --> Total execution time: 0.6582
+INFO - 20170105 14:06:58 --> Config Class Initialized
+INFO - 20170105 14:06:58 --> Hooks Class Initialized
+DEBUG - 20170105 14:06:58 --> UTF-8 Support Enabled
+INFO - 20170105 14:06:58 --> Utf8 Class Initialized
+INFO - 20170105 14:06:58 --> URI Class Initialized
+INFO - 20170105 14:06:58 --> Router Class Initialized
+INFO - 20170105 14:06:58 --> Output Class Initialized
+INFO - 20170105 14:06:58 --> Security Class Initialized
+DEBUG - 20170105 14:06:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:06:58 --> Input Class Initialized
+INFO - 20170105 14:06:58 --> Language Class Initialized
+INFO - 20170105 14:06:58 --> Loader Class Initialized
+DEBUG - 20170105 14:06:58 --> cURL Class Initialized
+INFO - 20170105 14:06:58 --> Controller Class Initialized
+INFO - 20170105 14:06:58 --> Helper loaded: util_helper
+INFO - 20170105 14:06:58 --> Helper loaded: form_helper
+INFO - 20170105 14:06:58 --> Form Validation Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Database Driver Class Initialized
+DEBUG - 20170105 14:06:58 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> Model Class Initialized
+INFO - 20170105 14:06:58 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:06:58 --> Final output sent to browser
+DEBUG - 20170105 14:06:58 --> Total execution time: 0.2377
+INFO - 20170105 14:07:10 --> Config Class Initialized
+INFO - 20170105 14:07:10 --> Hooks Class Initialized
+DEBUG - 20170105 14:07:10 --> UTF-8 Support Enabled
+INFO - 20170105 14:07:10 --> Utf8 Class Initialized
+INFO - 20170105 14:07:10 --> URI Class Initialized
+INFO - 20170105 14:07:10 --> Router Class Initialized
+INFO - 20170105 14:07:10 --> Output Class Initialized
+INFO - 20170105 14:07:10 --> Security Class Initialized
+DEBUG - 20170105 14:07:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:07:10 --> Input Class Initialized
+INFO - 20170105 14:07:10 --> Language Class Initialized
+INFO - 20170105 14:07:10 --> Loader Class Initialized
+DEBUG - 20170105 14:07:10 --> cURL Class Initialized
+INFO - 20170105 14:07:10 --> Controller Class Initialized
+INFO - 20170105 14:07:10 --> Helper loaded: util_helper
+INFO - 20170105 14:07:10 --> Helper loaded: form_helper
+INFO - 20170105 14:07:10 --> Form Validation Class Initialized
+INFO - 20170105 14:07:10 --> Model Class Initialized
+INFO - 20170105 14:07:10 --> Database Driver Class Initialized
+DEBUG - 20170105 14:07:11 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> Model Class Initialized
+INFO - 20170105 14:07:11 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:07:11 --> Final output sent to browser
+DEBUG - 20170105 14:07:11 --> Total execution time: 0.2149
+INFO - 20170105 14:28:20 --> Config Class Initialized
+INFO - 20170105 14:28:20 --> Hooks Class Initialized
+DEBUG - 20170105 14:28:20 --> UTF-8 Support Enabled
+INFO - 20170105 14:28:20 --> Utf8 Class Initialized
+INFO - 20170105 14:28:20 --> URI Class Initialized
+INFO - 20170105 14:28:20 --> Router Class Initialized
+INFO - 20170105 14:28:20 --> Output Class Initialized
+INFO - 20170105 14:28:20 --> Security Class Initialized
+DEBUG - 20170105 14:28:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:28:20 --> Input Class Initialized
+INFO - 20170105 14:28:20 --> Language Class Initialized
+INFO - 20170105 14:28:20 --> Loader Class Initialized
+DEBUG - 20170105 14:28:20 --> cURL Class Initialized
+INFO - 20170105 14:28:20 --> Controller Class Initialized
+INFO - 20170105 14:28:20 --> Helper loaded: util_helper
+INFO - 20170105 14:28:20 --> Helper loaded: form_helper
+INFO - 20170105 14:28:20 --> Form Validation Class Initialized
+INFO - 20170105 14:28:20 --> Model Class Initialized
+INFO - 20170105 14:28:20 --> Database Driver Class Initialized
+DEBUG - 20170105 14:28:20 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:28:21 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:28:21 --> Final output sent to browser
+DEBUG - 20170105 14:28:21 --> Total execution time: 0.6854
+INFO - 20170105 14:28:48 --> Config Class Initialized
+INFO - 20170105 14:28:48 --> Hooks Class Initialized
+DEBUG - 20170105 14:28:48 --> UTF-8 Support Enabled
+INFO - 20170105 14:28:48 --> Utf8 Class Initialized
+INFO - 20170105 14:28:48 --> URI Class Initialized
+INFO - 20170105 14:28:48 --> Router Class Initialized
+INFO - 20170105 14:28:48 --> Output Class Initialized
+INFO - 20170105 14:28:48 --> Security Class Initialized
+DEBUG - 20170105 14:28:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:28:48 --> Input Class Initialized
+INFO - 20170105 14:28:48 --> Language Class Initialized
+INFO - 20170105 14:28:48 --> Loader Class Initialized
+DEBUG - 20170105 14:28:48 --> cURL Class Initialized
+INFO - 20170105 14:28:48 --> Controller Class Initialized
+INFO - 20170105 14:28:48 --> Helper loaded: util_helper
+INFO - 20170105 14:28:48 --> Helper loaded: form_helper
+INFO - 20170105 14:28:48 --> Form Validation Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Database Driver Class Initialized
+DEBUG - 20170105 14:28:48 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> Model Class Initialized
+INFO - 20170105 14:28:48 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:28:48 --> Final output sent to browser
+DEBUG - 20170105 14:28:48 --> Total execution time: 0.2818
+INFO - 20170105 14:28:53 --> Config Class Initialized
+INFO - 20170105 14:28:53 --> Hooks Class Initialized
+DEBUG - 20170105 14:28:53 --> UTF-8 Support Enabled
+INFO - 20170105 14:28:53 --> Utf8 Class Initialized
+INFO - 20170105 14:28:53 --> URI Class Initialized
+INFO - 20170105 14:28:53 --> Router Class Initialized
+INFO - 20170105 14:28:53 --> Output Class Initialized
+INFO - 20170105 14:28:53 --> Security Class Initialized
+DEBUG - 20170105 14:28:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:28:53 --> Input Class Initialized
+INFO - 20170105 14:28:53 --> Language Class Initialized
+INFO - 20170105 14:28:53 --> Loader Class Initialized
+DEBUG - 20170105 14:28:53 --> cURL Class Initialized
+INFO - 20170105 14:28:53 --> Controller Class Initialized
+INFO - 20170105 14:28:53 --> Helper loaded: util_helper
+INFO - 20170105 14:28:53 --> Helper loaded: form_helper
+INFO - 20170105 14:28:53 --> Form Validation Class Initialized
+INFO - 20170105 14:28:53 --> Model Class Initialized
+INFO - 20170105 14:28:53 --> Database Driver Class Initialized
+DEBUG - 20170105 14:28:54 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> Model Class Initialized
+INFO - 20170105 14:28:54 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:28:54 --> Final output sent to browser
+DEBUG - 20170105 14:28:54 --> Total execution time: 0.2046
+INFO - 20170105 14:29:39 --> Config Class Initialized
+INFO - 20170105 14:29:39 --> Hooks Class Initialized
+DEBUG - 20170105 14:29:39 --> UTF-8 Support Enabled
+INFO - 20170105 14:29:39 --> Utf8 Class Initialized
+INFO - 20170105 14:29:39 --> URI Class Initialized
+INFO - 20170105 14:29:39 --> Router Class Initialized
+INFO - 20170105 14:29:39 --> Output Class Initialized
+INFO - 20170105 14:29:39 --> Security Class Initialized
+DEBUG - 20170105 14:29:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:29:39 --> Input Class Initialized
+INFO - 20170105 14:29:39 --> Language Class Initialized
+INFO - 20170105 14:29:39 --> Loader Class Initialized
+DEBUG - 20170105 14:29:39 --> cURL Class Initialized
+INFO - 20170105 14:29:39 --> Controller Class Initialized
+INFO - 20170105 14:29:39 --> Helper loaded: util_helper
+INFO - 20170105 14:29:39 --> Helper loaded: form_helper
+INFO - 20170105 14:29:39 --> Form Validation Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Database Driver Class Initialized
+DEBUG - 20170105 14:29:39 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> Model Class Initialized
+INFO - 20170105 14:29:39 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:29:39 --> Final output sent to browser
+DEBUG - 20170105 14:29:39 --> Total execution time: 0.2367
+INFO - 20170105 14:30:33 --> Config Class Initialized
+INFO - 20170105 14:30:33 --> Hooks Class Initialized
+DEBUG - 20170105 14:30:33 --> UTF-8 Support Enabled
+INFO - 20170105 14:30:33 --> Utf8 Class Initialized
+INFO - 20170105 14:30:33 --> URI Class Initialized
+INFO - 20170105 14:30:33 --> Router Class Initialized
+INFO - 20170105 14:30:33 --> Output Class Initialized
+INFO - 20170105 14:30:33 --> Security Class Initialized
+DEBUG - 20170105 14:30:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:30:33 --> Input Class Initialized
+INFO - 20170105 14:30:33 --> Language Class Initialized
+INFO - 20170105 14:30:33 --> Loader Class Initialized
+DEBUG - 20170105 14:30:33 --> cURL Class Initialized
+INFO - 20170105 14:30:33 --> Controller Class Initialized
+INFO - 20170105 14:30:33 --> Helper loaded: util_helper
+INFO - 20170105 14:30:33 --> Helper loaded: form_helper
+INFO - 20170105 14:30:33 --> Form Validation Class Initialized
+INFO - 20170105 14:30:33 --> Model Class Initialized
+INFO - 20170105 14:30:33 --> Database Driver Class Initialized
+DEBUG - 20170105 14:30:34 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> Model Class Initialized
+INFO - 20170105 14:30:34 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:30:34 --> Final output sent to browser
+DEBUG - 20170105 14:30:34 --> Total execution time: 0.7748
+INFO - 20170105 14:31:11 --> Config Class Initialized
+INFO - 20170105 14:31:11 --> Hooks Class Initialized
+DEBUG - 20170105 14:31:11 --> UTF-8 Support Enabled
+INFO - 20170105 14:31:11 --> Utf8 Class Initialized
+INFO - 20170105 14:31:11 --> URI Class Initialized
+INFO - 20170105 14:31:11 --> Router Class Initialized
+INFO - 20170105 14:31:11 --> Output Class Initialized
+INFO - 20170105 14:31:11 --> Security Class Initialized
+DEBUG - 20170105 14:31:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:31:11 --> Input Class Initialized
+INFO - 20170105 14:31:11 --> Language Class Initialized
+INFO - 20170105 14:31:11 --> Loader Class Initialized
+DEBUG - 20170105 14:31:11 --> cURL Class Initialized
+INFO - 20170105 14:31:11 --> Controller Class Initialized
+INFO - 20170105 14:31:11 --> Helper loaded: util_helper
+INFO - 20170105 14:31:11 --> Helper loaded: form_helper
+INFO - 20170105 14:31:11 --> Form Validation Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Database Driver Class Initialized
+DEBUG - 20170105 14:31:11 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> Model Class Initialized
+INFO - 20170105 14:31:11 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:31:11 --> Final output sent to browser
+DEBUG - 20170105 14:31:11 --> Total execution time: 0.1366
+INFO - 20170105 14:31:44 --> Config Class Initialized
+INFO - 20170105 14:31:44 --> Hooks Class Initialized
+DEBUG - 20170105 14:31:44 --> UTF-8 Support Enabled
+INFO - 20170105 14:31:44 --> Utf8 Class Initialized
+INFO - 20170105 14:31:44 --> URI Class Initialized
+INFO - 20170105 14:31:44 --> Router Class Initialized
+INFO - 20170105 14:31:44 --> Output Class Initialized
+INFO - 20170105 14:31:44 --> Security Class Initialized
+DEBUG - 20170105 14:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:31:44 --> Input Class Initialized
+INFO - 20170105 14:31:44 --> Language Class Initialized
+INFO - 20170105 14:31:44 --> Loader Class Initialized
+DEBUG - 20170105 14:31:44 --> cURL Class Initialized
+INFO - 20170105 14:31:44 --> Controller Class Initialized
+INFO - 20170105 14:31:44 --> Helper loaded: util_helper
+INFO - 20170105 14:31:44 --> Helper loaded: form_helper
+INFO - 20170105 14:31:44 --> Form Validation Class Initialized
+INFO - 20170105 14:31:44 --> Model Class Initialized
+INFO - 20170105 14:31:44 --> Database Driver Class Initialized
+DEBUG - 20170105 14:31:45 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> Model Class Initialized
+INFO - 20170105 14:31:45 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:31:45 --> Final output sent to browser
+DEBUG - 20170105 14:31:45 --> Total execution time: 0.5368
+INFO - 20170105 14:31:47 --> Config Class Initialized
+INFO - 20170105 14:31:47 --> Hooks Class Initialized
+DEBUG - 20170105 14:31:47 --> UTF-8 Support Enabled
+INFO - 20170105 14:31:47 --> Utf8 Class Initialized
+INFO - 20170105 14:31:47 --> URI Class Initialized
+INFO - 20170105 14:31:47 --> Router Class Initialized
+INFO - 20170105 14:31:47 --> Output Class Initialized
+INFO - 20170105 14:31:47 --> Security Class Initialized
+DEBUG - 20170105 14:31:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:31:47 --> Input Class Initialized
+INFO - 20170105 14:31:47 --> Language Class Initialized
+INFO - 20170105 14:31:47 --> Loader Class Initialized
+DEBUG - 20170105 14:31:47 --> cURL Class Initialized
+INFO - 20170105 14:31:47 --> Controller Class Initialized
+INFO - 20170105 14:31:47 --> Helper loaded: util_helper
+INFO - 20170105 14:31:47 --> Helper loaded: form_helper
+INFO - 20170105 14:31:47 --> Form Validation Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Database Driver Class Initialized
+DEBUG - 20170105 14:31:47 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> Model Class Initialized
+INFO - 20170105 14:31:47 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:31:47 --> Final output sent to browser
+DEBUG - 20170105 14:31:47 --> Total execution time: 0.2542
+INFO - 20170105 14:33:44 --> Config Class Initialized
+INFO - 20170105 14:33:44 --> Hooks Class Initialized
+DEBUG - 20170105 14:33:44 --> UTF-8 Support Enabled
+INFO - 20170105 14:33:44 --> Utf8 Class Initialized
+INFO - 20170105 14:33:44 --> URI Class Initialized
+INFO - 20170105 14:33:44 --> Router Class Initialized
+INFO - 20170105 14:33:44 --> Output Class Initialized
+INFO - 20170105 14:33:44 --> Security Class Initialized
+DEBUG - 20170105 14:33:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:33:44 --> Input Class Initialized
+INFO - 20170105 14:33:44 --> Language Class Initialized
+INFO - 20170105 14:33:44 --> Loader Class Initialized
+DEBUG - 20170105 14:33:44 --> cURL Class Initialized
+INFO - 20170105 14:33:44 --> Controller Class Initialized
+INFO - 20170105 14:33:44 --> Helper loaded: util_helper
+INFO - 20170105 14:33:44 --> Helper loaded: form_helper
+INFO - 20170105 14:33:44 --> Form Validation Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Database Driver Class Initialized
+DEBUG - 20170105 14:33:44 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> Model Class Initialized
+INFO - 20170105 14:33:44 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:33:44 --> Final output sent to browser
+DEBUG - 20170105 14:33:44 --> Total execution time: 0.1589
+INFO - 20170105 14:34:22 --> Config Class Initialized
+INFO - 20170105 14:34:22 --> Hooks Class Initialized
+DEBUG - 20170105 14:34:22 --> UTF-8 Support Enabled
+INFO - 20170105 14:34:22 --> Utf8 Class Initialized
+INFO - 20170105 14:34:22 --> URI Class Initialized
+INFO - 20170105 14:34:22 --> Router Class Initialized
+INFO - 20170105 14:34:22 --> Output Class Initialized
+INFO - 20170105 14:34:22 --> Security Class Initialized
+DEBUG - 20170105 14:34:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 14:34:22 --> Input Class Initialized
+INFO - 20170105 14:34:22 --> Language Class Initialized
+INFO - 20170105 14:34:22 --> Loader Class Initialized
+DEBUG - 20170105 14:34:22 --> cURL Class Initialized
+INFO - 20170105 14:34:22 --> Controller Class Initialized
+INFO - 20170105 14:34:22 --> Helper loaded: util_helper
+INFO - 20170105 14:34:22 --> Helper loaded: form_helper
+INFO - 20170105 14:34:22 --> Form Validation Class Initialized
+INFO - 20170105 14:34:22 --> Model Class Initialized
+INFO - 20170105 14:34:22 --> Database Driver Class Initialized
+DEBUG - 20170105 14:34:23 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> Model Class Initialized
+INFO - 20170105 14:34:23 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 14:34:23 --> Final output sent to browser
+DEBUG - 20170105 14:34:23 --> Total execution time: 0.1857
+INFO - 20170105 15:11:37 --> Config Class Initialized
+INFO - 20170105 15:11:37 --> Hooks Class Initialized
+DEBUG - 20170105 15:11:37 --> UTF-8 Support Enabled
+INFO - 20170105 15:11:37 --> Utf8 Class Initialized
+INFO - 20170105 15:11:37 --> URI Class Initialized
+INFO - 20170105 15:11:37 --> Router Class Initialized
+INFO - 20170105 15:11:37 --> Output Class Initialized
+INFO - 20170105 15:11:37 --> Security Class Initialized
+DEBUG - 20170105 15:11:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:11:37 --> Input Class Initialized
+INFO - 20170105 15:11:37 --> Language Class Initialized
+INFO - 20170105 15:11:37 --> Loader Class Initialized
+DEBUG - 20170105 15:11:37 --> cURL Class Initialized
+INFO - 20170105 15:11:37 --> Controller Class Initialized
+INFO - 20170105 15:11:37 --> Helper loaded: util_helper
+INFO - 20170105 15:11:37 --> Helper loaded: form_helper
+INFO - 20170105 15:11:37 --> Form Validation Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Database Driver Class Initialized
+DEBUG - 20170105 15:11:37 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> Model Class Initialized
+INFO - 20170105 15:11:37 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:11:37 --> Final output sent to browser
+DEBUG - 20170105 15:11:37 --> Total execution time: 0.5967
+INFO - 20170105 15:11:44 --> Config Class Initialized
+INFO - 20170105 15:11:44 --> Hooks Class Initialized
+DEBUG - 20170105 15:11:44 --> UTF-8 Support Enabled
+INFO - 20170105 15:11:44 --> Utf8 Class Initialized
+INFO - 20170105 15:11:44 --> URI Class Initialized
+INFO - 20170105 15:11:44 --> Router Class Initialized
+INFO - 20170105 15:11:44 --> Output Class Initialized
+INFO - 20170105 15:11:44 --> Security Class Initialized
+DEBUG - 20170105 15:11:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:11:44 --> Input Class Initialized
+INFO - 20170105 15:11:44 --> Language Class Initialized
+INFO - 20170105 15:11:44 --> Loader Class Initialized
+DEBUG - 20170105 15:11:44 --> cURL Class Initialized
+INFO - 20170105 15:11:44 --> Controller Class Initialized
+INFO - 20170105 15:11:44 --> Helper loaded: util_helper
+INFO - 20170105 15:11:44 --> Helper loaded: form_helper
+INFO - 20170105 15:11:44 --> Form Validation Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Database Driver Class Initialized
+DEBUG - 20170105 15:11:44 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> Model Class Initialized
+INFO - 20170105 15:11:44 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:11:44 --> Final output sent to browser
+DEBUG - 20170105 15:11:44 --> Total execution time: 0.2151
+INFO - 20170105 15:11:47 --> Config Class Initialized
+INFO - 20170105 15:11:47 --> Hooks Class Initialized
+DEBUG - 20170105 15:11:47 --> UTF-8 Support Enabled
+INFO - 20170105 15:11:47 --> Utf8 Class Initialized
+INFO - 20170105 15:11:47 --> URI Class Initialized
+INFO - 20170105 15:11:47 --> Router Class Initialized
+INFO - 20170105 15:11:47 --> Output Class Initialized
+INFO - 20170105 15:11:47 --> Security Class Initialized
+DEBUG - 20170105 15:11:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:11:47 --> Input Class Initialized
+INFO - 20170105 15:11:47 --> Language Class Initialized
+INFO - 20170105 15:11:47 --> Loader Class Initialized
+DEBUG - 20170105 15:11:47 --> cURL Class Initialized
+INFO - 20170105 15:11:47 --> Controller Class Initialized
+INFO - 20170105 15:11:47 --> Helper loaded: util_helper
+INFO - 20170105 15:11:47 --> Helper loaded: form_helper
+INFO - 20170105 15:11:47 --> Form Validation Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Database Driver Class Initialized
+DEBUG - 20170105 15:11:47 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> Model Class Initialized
+INFO - 20170105 15:11:47 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:11:47 --> Final output sent to browser
+DEBUG - 20170105 15:11:47 --> Total execution time: 0.1733
+INFO - 20170105 15:11:50 --> Config Class Initialized
+INFO - 20170105 15:11:50 --> Hooks Class Initialized
+DEBUG - 20170105 15:11:50 --> UTF-8 Support Enabled
+INFO - 20170105 15:11:50 --> Utf8 Class Initialized
+INFO - 20170105 15:11:50 --> URI Class Initialized
+INFO - 20170105 15:11:50 --> Router Class Initialized
+INFO - 20170105 15:11:50 --> Output Class Initialized
+INFO - 20170105 15:11:50 --> Security Class Initialized
+DEBUG - 20170105 15:11:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:11:50 --> Input Class Initialized
+INFO - 20170105 15:11:50 --> Language Class Initialized
+INFO - 20170105 15:11:50 --> Loader Class Initialized
+DEBUG - 20170105 15:11:50 --> cURL Class Initialized
+INFO - 20170105 15:11:50 --> Controller Class Initialized
+INFO - 20170105 15:11:50 --> Helper loaded: util_helper
+INFO - 20170105 15:11:50 --> Helper loaded: form_helper
+INFO - 20170105 15:11:50 --> Form Validation Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Database Driver Class Initialized
+DEBUG - 20170105 15:11:50 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> Model Class Initialized
+INFO - 20170105 15:11:50 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:11:50 --> Final output sent to browser
+DEBUG - 20170105 15:11:50 --> Total execution time: 0.1377
+INFO - 20170105 15:11:57 --> Config Class Initialized
+INFO - 20170105 15:11:57 --> Hooks Class Initialized
+DEBUG - 20170105 15:11:57 --> UTF-8 Support Enabled
+INFO - 20170105 15:11:57 --> Utf8 Class Initialized
+INFO - 20170105 15:11:57 --> URI Class Initialized
+INFO - 20170105 15:11:57 --> Router Class Initialized
+INFO - 20170105 15:11:57 --> Output Class Initialized
+INFO - 20170105 15:11:57 --> Security Class Initialized
+DEBUG - 20170105 15:11:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:11:57 --> Input Class Initialized
+INFO - 20170105 15:11:57 --> Language Class Initialized
+INFO - 20170105 15:11:57 --> Loader Class Initialized
+DEBUG - 20170105 15:11:57 --> cURL Class Initialized
+INFO - 20170105 15:11:57 --> Controller Class Initialized
+INFO - 20170105 15:11:57 --> Helper loaded: util_helper
+INFO - 20170105 15:11:57 --> Helper loaded: form_helper
+INFO - 20170105 15:11:57 --> Form Validation Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Database Driver Class Initialized
+DEBUG - 20170105 15:11:57 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> Model Class Initialized
+INFO - 20170105 15:11:57 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:11:57 --> Final output sent to browser
+DEBUG - 20170105 15:11:57 --> Total execution time: 0.2434
+INFO - 20170105 15:12:00 --> Config Class Initialized
+INFO - 20170105 15:12:00 --> Hooks Class Initialized
+DEBUG - 20170105 15:12:00 --> UTF-8 Support Enabled
+INFO - 20170105 15:12:00 --> Utf8 Class Initialized
+INFO - 20170105 15:12:00 --> URI Class Initialized
+INFO - 20170105 15:12:00 --> Router Class Initialized
+INFO - 20170105 15:12:00 --> Output Class Initialized
+INFO - 20170105 15:12:00 --> Security Class Initialized
+DEBUG - 20170105 15:12:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:12:00 --> Input Class Initialized
+INFO - 20170105 15:12:00 --> Language Class Initialized
+INFO - 20170105 15:12:00 --> Loader Class Initialized
+DEBUG - 20170105 15:12:00 --> cURL Class Initialized
+INFO - 20170105 15:12:00 --> Controller Class Initialized
+INFO - 20170105 15:12:00 --> Helper loaded: util_helper
+INFO - 20170105 15:12:00 --> Helper loaded: form_helper
+INFO - 20170105 15:12:00 --> Form Validation Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Database Driver Class Initialized
+DEBUG - 20170105 15:12:00 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> Model Class Initialized
+INFO - 20170105 15:12:00 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:12:00 --> Final output sent to browser
+DEBUG - 20170105 15:12:00 --> Total execution time: 0.1811
+INFO - 20170105 15:12:04 --> Config Class Initialized
+INFO - 20170105 15:12:04 --> Hooks Class Initialized
+DEBUG - 20170105 15:12:04 --> UTF-8 Support Enabled
+INFO - 20170105 15:12:04 --> Utf8 Class Initialized
+INFO - 20170105 15:12:04 --> URI Class Initialized
+INFO - 20170105 15:12:04 --> Router Class Initialized
+INFO - 20170105 15:12:04 --> Output Class Initialized
+INFO - 20170105 15:12:04 --> Security Class Initialized
+DEBUG - 20170105 15:12:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:12:04 --> Input Class Initialized
+INFO - 20170105 15:12:04 --> Language Class Initialized
+INFO - 20170105 15:12:04 --> Loader Class Initialized
+DEBUG - 20170105 15:12:04 --> cURL Class Initialized
+INFO - 20170105 15:12:04 --> Controller Class Initialized
+INFO - 20170105 15:12:04 --> Helper loaded: util_helper
+INFO - 20170105 15:12:04 --> Helper loaded: form_helper
+INFO - 20170105 15:12:04 --> Form Validation Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Database Driver Class Initialized
+DEBUG - 20170105 15:12:04 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> Model Class Initialized
+INFO - 20170105 15:12:04 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:12:04 --> Final output sent to browser
+DEBUG - 20170105 15:12:04 --> Total execution time: 0.1504
+INFO - 20170105 15:12:07 --> Config Class Initialized
+INFO - 20170105 15:12:07 --> Hooks Class Initialized
+DEBUG - 20170105 15:12:07 --> UTF-8 Support Enabled
+INFO - 20170105 15:12:07 --> Utf8 Class Initialized
+INFO - 20170105 15:12:07 --> URI Class Initialized
+INFO - 20170105 15:12:07 --> Router Class Initialized
+INFO - 20170105 15:12:07 --> Output Class Initialized
+INFO - 20170105 15:12:07 --> Security Class Initialized
+DEBUG - 20170105 15:12:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:12:07 --> Input Class Initialized
+INFO - 20170105 15:12:07 --> Language Class Initialized
+INFO - 20170105 15:12:07 --> Loader Class Initialized
+DEBUG - 20170105 15:12:07 --> cURL Class Initialized
+INFO - 20170105 15:12:07 --> Controller Class Initialized
+INFO - 20170105 15:12:07 --> Helper loaded: util_helper
+INFO - 20170105 15:12:07 --> Helper loaded: form_helper
+INFO - 20170105 15:12:07 --> Form Validation Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Database Driver Class Initialized
+DEBUG - 20170105 15:12:07 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> Model Class Initialized
+INFO - 20170105 15:12:07 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:12:07 --> Final output sent to browser
+DEBUG - 20170105 15:12:07 --> Total execution time: 0.2246
+INFO - 20170105 15:12:10 --> Config Class Initialized
+INFO - 20170105 15:12:10 --> Hooks Class Initialized
+DEBUG - 20170105 15:12:10 --> UTF-8 Support Enabled
+INFO - 20170105 15:12:10 --> Utf8 Class Initialized
+INFO - 20170105 15:12:10 --> URI Class Initialized
+INFO - 20170105 15:12:10 --> Router Class Initialized
+INFO - 20170105 15:12:10 --> Output Class Initialized
+INFO - 20170105 15:12:10 --> Security Class Initialized
+DEBUG - 20170105 15:12:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:12:10 --> Input Class Initialized
+INFO - 20170105 15:12:10 --> Language Class Initialized
+INFO - 20170105 15:12:10 --> Loader Class Initialized
+DEBUG - 20170105 15:12:10 --> cURL Class Initialized
+INFO - 20170105 15:12:10 --> Controller Class Initialized
+INFO - 20170105 15:12:10 --> Helper loaded: util_helper
+INFO - 20170105 15:12:10 --> Helper loaded: form_helper
+INFO - 20170105 15:12:10 --> Form Validation Class Initialized
+INFO - 20170105 15:12:10 --> Model Class Initialized
+INFO - 20170105 15:12:10 --> Database Driver Class Initialized
+DEBUG - 20170105 15:12:10 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:12:10 --> Model Class Initialized
+INFO - 20170105 15:12:10 --> Model Class Initialized
+INFO - 20170105 15:12:10 --> Model Class Initialized
+INFO - 20170105 15:12:10 --> Model Class Initialized
+INFO - 20170105 15:12:10 --> Model Class Initialized
+INFO - 20170105 15:12:10 --> Model Class Initialized
+INFO - 20170105 15:12:10 --> Model Class Initialized
+INFO - 20170105 15:12:11 --> Model Class Initialized
+INFO - 20170105 15:12:11 --> Model Class Initialized
+INFO - 20170105 15:12:11 --> Model Class Initialized
+INFO - 20170105 15:12:11 --> Model Class Initialized
+INFO - 20170105 15:12:11 --> Model Class Initialized
+INFO - 20170105 15:12:11 --> Model Class Initialized
+INFO - 20170105 15:12:11 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:12:11 --> Final output sent to browser
+DEBUG - 20170105 15:12:11 --> Total execution time: 0.2086
+INFO - 20170105 15:12:13 --> Config Class Initialized
+INFO - 20170105 15:12:13 --> Hooks Class Initialized
+DEBUG - 20170105 15:12:13 --> UTF-8 Support Enabled
+INFO - 20170105 15:12:13 --> Utf8 Class Initialized
+INFO - 20170105 15:12:13 --> URI Class Initialized
+INFO - 20170105 15:12:13 --> Router Class Initialized
+INFO - 20170105 15:12:13 --> Output Class Initialized
+INFO - 20170105 15:12:13 --> Security Class Initialized
+DEBUG - 20170105 15:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:12:13 --> Input Class Initialized
+INFO - 20170105 15:12:13 --> Language Class Initialized
+INFO - 20170105 15:12:13 --> Loader Class Initialized
+DEBUG - 20170105 15:12:13 --> cURL Class Initialized
+INFO - 20170105 15:12:13 --> Controller Class Initialized
+INFO - 20170105 15:12:13 --> Helper loaded: util_helper
+INFO - 20170105 15:12:13 --> Helper loaded: form_helper
+INFO - 20170105 15:12:13 --> Form Validation Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Database Driver Class Initialized
+DEBUG - 20170105 15:12:13 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> Model Class Initialized
+INFO - 20170105 15:12:13 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:12:13 --> Final output sent to browser
+DEBUG - 20170105 15:12:13 --> Total execution time: 0.1692
+INFO - 20170105 15:13:37 --> Config Class Initialized
+INFO - 20170105 15:13:37 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:37 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:37 --> Utf8 Class Initialized
+INFO - 20170105 15:13:37 --> URI Class Initialized
+INFO - 20170105 15:13:37 --> Router Class Initialized
+INFO - 20170105 15:13:37 --> Output Class Initialized
+INFO - 20170105 15:13:37 --> Security Class Initialized
+DEBUG - 20170105 15:13:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:37 --> Input Class Initialized
+INFO - 20170105 15:13:37 --> Language Class Initialized
+INFO - 20170105 15:13:37 --> Loader Class Initialized
+DEBUG - 20170105 15:13:37 --> cURL Class Initialized
+INFO - 20170105 15:13:37 --> Controller Class Initialized
+INFO - 20170105 15:13:37 --> Helper loaded: util_helper
+INFO - 20170105 15:13:37 --> Helper loaded: form_helper
+INFO - 20170105 15:13:37 --> Form Validation Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:37 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> Model Class Initialized
+INFO - 20170105 15:13:37 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:37 --> Final output sent to browser
+DEBUG - 20170105 15:13:37 --> Total execution time: 0.2029
+INFO - 20170105 15:13:41 --> Config Class Initialized
+INFO - 20170105 15:13:41 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:41 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:41 --> Utf8 Class Initialized
+INFO - 20170105 15:13:41 --> URI Class Initialized
+INFO - 20170105 15:13:41 --> Router Class Initialized
+INFO - 20170105 15:13:41 --> Output Class Initialized
+INFO - 20170105 15:13:41 --> Security Class Initialized
+DEBUG - 20170105 15:13:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:41 --> Input Class Initialized
+INFO - 20170105 15:13:41 --> Language Class Initialized
+INFO - 20170105 15:13:41 --> Loader Class Initialized
+DEBUG - 20170105 15:13:41 --> cURL Class Initialized
+INFO - 20170105 15:13:41 --> Controller Class Initialized
+INFO - 20170105 15:13:41 --> Helper loaded: util_helper
+INFO - 20170105 15:13:41 --> Helper loaded: form_helper
+INFO - 20170105 15:13:41 --> Form Validation Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:41 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> Model Class Initialized
+INFO - 20170105 15:13:41 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:41 --> Final output sent to browser
+DEBUG - 20170105 15:13:41 --> Total execution time: 0.1408
+INFO - 20170105 15:13:42 --> Config Class Initialized
+INFO - 20170105 15:13:42 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:42 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:42 --> Utf8 Class Initialized
+INFO - 20170105 15:13:42 --> URI Class Initialized
+INFO - 20170105 15:13:42 --> Router Class Initialized
+INFO - 20170105 15:13:42 --> Output Class Initialized
+INFO - 20170105 15:13:42 --> Security Class Initialized
+DEBUG - 20170105 15:13:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:42 --> Input Class Initialized
+INFO - 20170105 15:13:42 --> Language Class Initialized
+INFO - 20170105 15:13:42 --> Loader Class Initialized
+DEBUG - 20170105 15:13:42 --> cURL Class Initialized
+INFO - 20170105 15:13:42 --> Controller Class Initialized
+INFO - 20170105 15:13:42 --> Helper loaded: util_helper
+INFO - 20170105 15:13:42 --> Helper loaded: form_helper
+INFO - 20170105 15:13:42 --> Form Validation Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:42 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> Model Class Initialized
+INFO - 20170105 15:13:42 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:42 --> Final output sent to browser
+DEBUG - 20170105 15:13:42 --> Total execution time: 0.1360
+INFO - 20170105 15:13:43 --> Config Class Initialized
+INFO - 20170105 15:13:43 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:43 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:43 --> Utf8 Class Initialized
+INFO - 20170105 15:13:43 --> URI Class Initialized
+INFO - 20170105 15:13:43 --> Router Class Initialized
+INFO - 20170105 15:13:43 --> Output Class Initialized
+INFO - 20170105 15:13:43 --> Security Class Initialized
+DEBUG - 20170105 15:13:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:43 --> Input Class Initialized
+INFO - 20170105 15:13:43 --> Language Class Initialized
+INFO - 20170105 15:13:43 --> Loader Class Initialized
+DEBUG - 20170105 15:13:43 --> cURL Class Initialized
+INFO - 20170105 15:13:43 --> Controller Class Initialized
+INFO - 20170105 15:13:43 --> Helper loaded: util_helper
+INFO - 20170105 15:13:43 --> Helper loaded: form_helper
+INFO - 20170105 15:13:43 --> Form Validation Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:43 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:43 --> Final output sent to browser
+DEBUG - 20170105 15:13:43 --> Total execution time: 0.1617
+INFO - 20170105 15:13:43 --> Config Class Initialized
+INFO - 20170105 15:13:43 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:43 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:43 --> Utf8 Class Initialized
+INFO - 20170105 15:13:43 --> URI Class Initialized
+INFO - 20170105 15:13:43 --> Router Class Initialized
+INFO - 20170105 15:13:43 --> Output Class Initialized
+INFO - 20170105 15:13:43 --> Security Class Initialized
+DEBUG - 20170105 15:13:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:43 --> Input Class Initialized
+INFO - 20170105 15:13:43 --> Language Class Initialized
+INFO - 20170105 15:13:43 --> Loader Class Initialized
+DEBUG - 20170105 15:13:43 --> cURL Class Initialized
+INFO - 20170105 15:13:43 --> Controller Class Initialized
+INFO - 20170105 15:13:43 --> Helper loaded: util_helper
+INFO - 20170105 15:13:43 --> Helper loaded: form_helper
+INFO - 20170105 15:13:43 --> Form Validation Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:43 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:43 --> Final output sent to browser
+DEBUG - 20170105 15:13:43 --> Total execution time: 0.1215
+INFO - 20170105 15:13:43 --> Config Class Initialized
+INFO - 20170105 15:13:43 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:43 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:43 --> Utf8 Class Initialized
+INFO - 20170105 15:13:43 --> URI Class Initialized
+INFO - 20170105 15:13:43 --> Router Class Initialized
+INFO - 20170105 15:13:43 --> Output Class Initialized
+INFO - 20170105 15:13:43 --> Security Class Initialized
+DEBUG - 20170105 15:13:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:43 --> Input Class Initialized
+INFO - 20170105 15:13:43 --> Language Class Initialized
+INFO - 20170105 15:13:43 --> Loader Class Initialized
+DEBUG - 20170105 15:13:43 --> cURL Class Initialized
+INFO - 20170105 15:13:43 --> Controller Class Initialized
+INFO - 20170105 15:13:43 --> Helper loaded: util_helper
+INFO - 20170105 15:13:43 --> Helper loaded: form_helper
+INFO - 20170105 15:13:43 --> Form Validation Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:43 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> Model Class Initialized
+INFO - 20170105 15:13:43 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:43 --> Final output sent to browser
+DEBUG - 20170105 15:13:43 --> Total execution time: 0.1372
+INFO - 20170105 15:13:44 --> Config Class Initialized
+INFO - 20170105 15:13:44 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:44 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:44 --> Utf8 Class Initialized
+INFO - 20170105 15:13:44 --> URI Class Initialized
+INFO - 20170105 15:13:44 --> Router Class Initialized
+INFO - 20170105 15:13:44 --> Output Class Initialized
+INFO - 20170105 15:13:44 --> Security Class Initialized
+DEBUG - 20170105 15:13:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:44 --> Input Class Initialized
+INFO - 20170105 15:13:44 --> Language Class Initialized
+INFO - 20170105 15:13:44 --> Loader Class Initialized
+DEBUG - 20170105 15:13:44 --> cURL Class Initialized
+INFO - 20170105 15:13:44 --> Controller Class Initialized
+INFO - 20170105 15:13:44 --> Helper loaded: util_helper
+INFO - 20170105 15:13:44 --> Helper loaded: form_helper
+INFO - 20170105 15:13:44 --> Form Validation Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:44 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:44 --> Final output sent to browser
+DEBUG - 20170105 15:13:44 --> Total execution time: 0.1561
+INFO - 20170105 15:13:44 --> Config Class Initialized
+INFO - 20170105 15:13:44 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:44 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:44 --> Utf8 Class Initialized
+INFO - 20170105 15:13:44 --> URI Class Initialized
+INFO - 20170105 15:13:44 --> Router Class Initialized
+INFO - 20170105 15:13:44 --> Output Class Initialized
+INFO - 20170105 15:13:44 --> Security Class Initialized
+DEBUG - 20170105 15:13:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:44 --> Input Class Initialized
+INFO - 20170105 15:13:44 --> Language Class Initialized
+INFO - 20170105 15:13:44 --> Loader Class Initialized
+DEBUG - 20170105 15:13:44 --> cURL Class Initialized
+INFO - 20170105 15:13:44 --> Controller Class Initialized
+INFO - 20170105 15:13:44 --> Helper loaded: util_helper
+INFO - 20170105 15:13:44 --> Helper loaded: form_helper
+INFO - 20170105 15:13:44 --> Form Validation Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:44 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:44 --> Final output sent to browser
+DEBUG - 20170105 15:13:44 --> Total execution time: 0.1563
+INFO - 20170105 15:13:44 --> Config Class Initialized
+INFO - 20170105 15:13:44 --> Hooks Class Initialized
+DEBUG - 20170105 15:13:44 --> UTF-8 Support Enabled
+INFO - 20170105 15:13:44 --> Utf8 Class Initialized
+INFO - 20170105 15:13:44 --> URI Class Initialized
+INFO - 20170105 15:13:44 --> Router Class Initialized
+INFO - 20170105 15:13:44 --> Output Class Initialized
+INFO - 20170105 15:13:44 --> Security Class Initialized
+DEBUG - 20170105 15:13:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:13:44 --> Input Class Initialized
+INFO - 20170105 15:13:44 --> Language Class Initialized
+INFO - 20170105 15:13:44 --> Loader Class Initialized
+DEBUG - 20170105 15:13:44 --> cURL Class Initialized
+INFO - 20170105 15:13:44 --> Controller Class Initialized
+INFO - 20170105 15:13:44 --> Helper loaded: util_helper
+INFO - 20170105 15:13:44 --> Helper loaded: form_helper
+INFO - 20170105 15:13:44 --> Form Validation Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Database Driver Class Initialized
+DEBUG - 20170105 15:13:44 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:44 --> Model Class Initialized
+INFO - 20170105 15:13:45 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:13:45 --> Final output sent to browser
+DEBUG - 20170105 15:13:45 --> Total execution time: 0.1226
+INFO - 20170105 15:14:07 --> Config Class Initialized
+INFO - 20170105 15:14:07 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:07 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:07 --> Utf8 Class Initialized
+INFO - 20170105 15:14:07 --> URI Class Initialized
+INFO - 20170105 15:14:07 --> Router Class Initialized
+INFO - 20170105 15:14:07 --> Output Class Initialized
+INFO - 20170105 15:14:07 --> Security Class Initialized
+DEBUG - 20170105 15:14:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:07 --> Input Class Initialized
+INFO - 20170105 15:14:07 --> Language Class Initialized
+INFO - 20170105 15:14:07 --> Loader Class Initialized
+DEBUG - 20170105 15:14:07 --> cURL Class Initialized
+INFO - 20170105 15:14:07 --> Controller Class Initialized
+INFO - 20170105 15:14:07 --> Helper loaded: util_helper
+INFO - 20170105 15:14:07 --> Helper loaded: form_helper
+INFO - 20170105 15:14:07 --> Form Validation Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:07 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+INFO - 20170105 15:14:07 --> Model Class Initialized
+ERROR - 20170105 15:14:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:07 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:07 --> Final output sent to browser
+DEBUG - 20170105 15:14:07 --> Total execution time: 0.1736
+INFO - 20170105 15:14:43 --> Config Class Initialized
+INFO - 20170105 15:14:43 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:43 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:43 --> Utf8 Class Initialized
+INFO - 20170105 15:14:43 --> URI Class Initialized
+INFO - 20170105 15:14:43 --> Router Class Initialized
+INFO - 20170105 15:14:43 --> Output Class Initialized
+INFO - 20170105 15:14:43 --> Security Class Initialized
+DEBUG - 20170105 15:14:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:43 --> Input Class Initialized
+INFO - 20170105 15:14:43 --> Language Class Initialized
+INFO - 20170105 15:14:43 --> Loader Class Initialized
+DEBUG - 20170105 15:14:43 --> cURL Class Initialized
+INFO - 20170105 15:14:43 --> Controller Class Initialized
+INFO - 20170105 15:14:43 --> Helper loaded: util_helper
+INFO - 20170105 15:14:43 --> Helper loaded: form_helper
+INFO - 20170105 15:14:43 --> Form Validation Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:43 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+INFO - 20170105 15:14:43 --> Model Class Initialized
+ERROR - 20170105 15:14:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:43 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:43 --> Final output sent to browser
+DEBUG - 20170105 15:14:43 --> Total execution time: 0.1383
+INFO - 20170105 15:14:44 --> Config Class Initialized
+INFO - 20170105 15:14:44 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:44 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:44 --> Utf8 Class Initialized
+INFO - 20170105 15:14:44 --> URI Class Initialized
+INFO - 20170105 15:14:44 --> Router Class Initialized
+INFO - 20170105 15:14:44 --> Output Class Initialized
+INFO - 20170105 15:14:44 --> Security Class Initialized
+DEBUG - 20170105 15:14:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:44 --> Input Class Initialized
+INFO - 20170105 15:14:44 --> Language Class Initialized
+INFO - 20170105 15:14:44 --> Loader Class Initialized
+DEBUG - 20170105 15:14:44 --> cURL Class Initialized
+INFO - 20170105 15:14:44 --> Controller Class Initialized
+INFO - 20170105 15:14:44 --> Helper loaded: util_helper
+INFO - 20170105 15:14:44 --> Helper loaded: form_helper
+INFO - 20170105 15:14:44 --> Form Validation Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:44 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+ERROR - 20170105 15:14:44 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:44 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:44 --> Final output sent to browser
+DEBUG - 20170105 15:14:44 --> Total execution time: 0.1875
+INFO - 20170105 15:14:44 --> Config Class Initialized
+INFO - 20170105 15:14:44 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:44 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:44 --> Utf8 Class Initialized
+INFO - 20170105 15:14:44 --> URI Class Initialized
+INFO - 20170105 15:14:44 --> Router Class Initialized
+INFO - 20170105 15:14:44 --> Output Class Initialized
+INFO - 20170105 15:14:44 --> Security Class Initialized
+DEBUG - 20170105 15:14:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:44 --> Input Class Initialized
+INFO - 20170105 15:14:44 --> Language Class Initialized
+INFO - 20170105 15:14:44 --> Loader Class Initialized
+DEBUG - 20170105 15:14:44 --> cURL Class Initialized
+INFO - 20170105 15:14:44 --> Controller Class Initialized
+INFO - 20170105 15:14:44 --> Helper loaded: util_helper
+INFO - 20170105 15:14:44 --> Helper loaded: form_helper
+INFO - 20170105 15:14:44 --> Form Validation Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:44 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+INFO - 20170105 15:14:44 --> Model Class Initialized
+ERROR - 20170105 15:14:44 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:44 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:44 --> Final output sent to browser
+DEBUG - 20170105 15:14:44 --> Total execution time: 0.1668
+INFO - 20170105 15:14:45 --> Config Class Initialized
+INFO - 20170105 15:14:45 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:45 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:45 --> Utf8 Class Initialized
+INFO - 20170105 15:14:45 --> URI Class Initialized
+INFO - 20170105 15:14:45 --> Router Class Initialized
+INFO - 20170105 15:14:45 --> Output Class Initialized
+INFO - 20170105 15:14:45 --> Security Class Initialized
+DEBUG - 20170105 15:14:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:45 --> Input Class Initialized
+INFO - 20170105 15:14:45 --> Language Class Initialized
+INFO - 20170105 15:14:45 --> Loader Class Initialized
+DEBUG - 20170105 15:14:45 --> cURL Class Initialized
+INFO - 20170105 15:14:45 --> Controller Class Initialized
+INFO - 20170105 15:14:45 --> Helper loaded: util_helper
+INFO - 20170105 15:14:45 --> Helper loaded: form_helper
+INFO - 20170105 15:14:45 --> Form Validation Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:45 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+ERROR - 20170105 15:14:45 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:45 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:45 --> Final output sent to browser
+DEBUG - 20170105 15:14:45 --> Total execution time: 0.1440
+INFO - 20170105 15:14:45 --> Config Class Initialized
+INFO - 20170105 15:14:45 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:45 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:45 --> Utf8 Class Initialized
+INFO - 20170105 15:14:45 --> URI Class Initialized
+INFO - 20170105 15:14:45 --> Router Class Initialized
+INFO - 20170105 15:14:45 --> Output Class Initialized
+INFO - 20170105 15:14:45 --> Security Class Initialized
+DEBUG - 20170105 15:14:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:45 --> Input Class Initialized
+INFO - 20170105 15:14:45 --> Language Class Initialized
+INFO - 20170105 15:14:45 --> Loader Class Initialized
+DEBUG - 20170105 15:14:45 --> cURL Class Initialized
+INFO - 20170105 15:14:45 --> Controller Class Initialized
+INFO - 20170105 15:14:45 --> Helper loaded: util_helper
+INFO - 20170105 15:14:45 --> Helper loaded: form_helper
+INFO - 20170105 15:14:45 --> Form Validation Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:45 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+INFO - 20170105 15:14:45 --> Model Class Initialized
+ERROR - 20170105 15:14:45 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:45 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:45 --> Final output sent to browser
+DEBUG - 20170105 15:14:45 --> Total execution time: 0.1771
+INFO - 20170105 15:14:45 --> Config Class Initialized
+INFO - 20170105 15:14:45 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:45 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:45 --> Utf8 Class Initialized
+INFO - 20170105 15:14:45 --> URI Class Initialized
+INFO - 20170105 15:14:45 --> Router Class Initialized
+INFO - 20170105 15:14:45 --> Output Class Initialized
+INFO - 20170105 15:14:45 --> Security Class Initialized
+DEBUG - 20170105 15:14:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:45 --> Input Class Initialized
+INFO - 20170105 15:14:45 --> Language Class Initialized
+INFO - 20170105 15:14:45 --> Loader Class Initialized
+DEBUG - 20170105 15:14:45 --> cURL Class Initialized
+INFO - 20170105 15:14:45 --> Controller Class Initialized
+INFO - 20170105 15:14:46 --> Helper loaded: util_helper
+INFO - 20170105 15:14:46 --> Helper loaded: form_helper
+INFO - 20170105 15:14:46 --> Form Validation Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:46 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+ERROR - 20170105 15:14:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:46 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:46 --> Final output sent to browser
+DEBUG - 20170105 15:14:46 --> Total execution time: 0.1484
+INFO - 20170105 15:14:46 --> Config Class Initialized
+INFO - 20170105 15:14:46 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:46 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:46 --> Utf8 Class Initialized
+INFO - 20170105 15:14:46 --> URI Class Initialized
+INFO - 20170105 15:14:46 --> Router Class Initialized
+INFO - 20170105 15:14:46 --> Output Class Initialized
+INFO - 20170105 15:14:46 --> Security Class Initialized
+DEBUG - 20170105 15:14:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:46 --> Input Class Initialized
+INFO - 20170105 15:14:46 --> Language Class Initialized
+INFO - 20170105 15:14:46 --> Loader Class Initialized
+DEBUG - 20170105 15:14:46 --> cURL Class Initialized
+INFO - 20170105 15:14:46 --> Controller Class Initialized
+INFO - 20170105 15:14:46 --> Helper loaded: util_helper
+INFO - 20170105 15:14:46 --> Helper loaded: form_helper
+INFO - 20170105 15:14:46 --> Form Validation Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:46 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+ERROR - 20170105 15:14:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:46 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:46 --> Final output sent to browser
+DEBUG - 20170105 15:14:46 --> Total execution time: 0.1165
+INFO - 20170105 15:14:46 --> Config Class Initialized
+INFO - 20170105 15:14:46 --> Hooks Class Initialized
+DEBUG - 20170105 15:14:46 --> UTF-8 Support Enabled
+INFO - 20170105 15:14:46 --> Utf8 Class Initialized
+INFO - 20170105 15:14:46 --> URI Class Initialized
+INFO - 20170105 15:14:46 --> Router Class Initialized
+INFO - 20170105 15:14:46 --> Output Class Initialized
+INFO - 20170105 15:14:46 --> Security Class Initialized
+DEBUG - 20170105 15:14:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:14:46 --> Input Class Initialized
+INFO - 20170105 15:14:46 --> Language Class Initialized
+INFO - 20170105 15:14:46 --> Loader Class Initialized
+DEBUG - 20170105 15:14:46 --> cURL Class Initialized
+INFO - 20170105 15:14:46 --> Controller Class Initialized
+INFO - 20170105 15:14:46 --> Helper loaded: util_helper
+INFO - 20170105 15:14:46 --> Helper loaded: form_helper
+INFO - 20170105 15:14:46 --> Form Validation Class Initialized
+INFO - 20170105 15:14:46 --> Model Class Initialized
+INFO - 20170105 15:14:46 --> Database Driver Class Initialized
+DEBUG - 20170105 15:14:47 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+INFO - 20170105 15:14:47 --> Model Class Initialized
+ERROR - 20170105 15:14:47 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:14:47 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:14:47 --> Final output sent to browser
+DEBUG - 20170105 15:14:47 --> Total execution time: 0.3476
+INFO - 20170105 15:17:57 --> Config Class Initialized
+INFO - 20170105 15:17:57 --> Hooks Class Initialized
+DEBUG - 20170105 15:17:57 --> UTF-8 Support Enabled
+INFO - 20170105 15:17:57 --> Utf8 Class Initialized
+INFO - 20170105 15:17:57 --> URI Class Initialized
+INFO - 20170105 15:17:57 --> Router Class Initialized
+INFO - 20170105 15:17:57 --> Output Class Initialized
+INFO - 20170105 15:17:57 --> Security Class Initialized
+DEBUG - 20170105 15:17:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:17:57 --> Input Class Initialized
+INFO - 20170105 15:17:57 --> Language Class Initialized
+INFO - 20170105 15:17:57 --> Loader Class Initialized
+DEBUG - 20170105 15:17:57 --> cURL Class Initialized
+INFO - 20170105 15:17:57 --> Controller Class Initialized
+INFO - 20170105 15:17:57 --> Helper loaded: util_helper
+INFO - 20170105 15:17:57 --> Helper loaded: form_helper
+INFO - 20170105 15:17:57 --> Form Validation Class Initialized
+INFO - 20170105 15:17:57 --> Model Class Initialized
+INFO - 20170105 15:17:57 --> Database Driver Class Initialized
+DEBUG - 20170105 15:17:58 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+INFO - 20170105 15:17:58 --> Model Class Initialized
+ERROR - 20170105 15:17:58 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:17:58 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:17:58 --> Final output sent to browser
+DEBUG - 20170105 15:17:58 --> Total execution time: 0.6239
+INFO - 20170105 15:17:59 --> Config Class Initialized
+INFO - 20170105 15:17:59 --> Hooks Class Initialized
+DEBUG - 20170105 15:17:59 --> UTF-8 Support Enabled
+INFO - 20170105 15:17:59 --> Utf8 Class Initialized
+INFO - 20170105 15:17:59 --> URI Class Initialized
+INFO - 20170105 15:18:00 --> Router Class Initialized
+INFO - 20170105 15:18:00 --> Output Class Initialized
+INFO - 20170105 15:18:00 --> Security Class Initialized
+DEBUG - 20170105 15:18:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:18:00 --> Input Class Initialized
+INFO - 20170105 15:18:00 --> Language Class Initialized
+INFO - 20170105 15:18:00 --> Loader Class Initialized
+DEBUG - 20170105 15:18:00 --> cURL Class Initialized
+INFO - 20170105 15:18:00 --> Controller Class Initialized
+INFO - 20170105 15:18:00 --> Helper loaded: util_helper
+INFO - 20170105 15:18:00 --> Helper loaded: form_helper
+INFO - 20170105 15:18:00 --> Form Validation Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Database Driver Class Initialized
+DEBUG - 20170105 15:18:00 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+ERROR - 20170105 15:18:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:18:00 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:18:00 --> Final output sent to browser
+DEBUG - 20170105 15:18:00 --> Total execution time: 0.1637
+INFO - 20170105 15:18:00 --> Config Class Initialized
+INFO - 20170105 15:18:00 --> Hooks Class Initialized
+DEBUG - 20170105 15:18:00 --> UTF-8 Support Enabled
+INFO - 20170105 15:18:00 --> Utf8 Class Initialized
+INFO - 20170105 15:18:00 --> URI Class Initialized
+INFO - 20170105 15:18:00 --> Router Class Initialized
+INFO - 20170105 15:18:00 --> Output Class Initialized
+INFO - 20170105 15:18:00 --> Security Class Initialized
+DEBUG - 20170105 15:18:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:18:00 --> Input Class Initialized
+INFO - 20170105 15:18:00 --> Language Class Initialized
+INFO - 20170105 15:18:00 --> Loader Class Initialized
+DEBUG - 20170105 15:18:00 --> cURL Class Initialized
+INFO - 20170105 15:18:00 --> Controller Class Initialized
+INFO - 20170105 15:18:00 --> Helper loaded: util_helper
+INFO - 20170105 15:18:00 --> Helper loaded: form_helper
+INFO - 20170105 15:18:00 --> Form Validation Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Database Driver Class Initialized
+DEBUG - 20170105 15:18:00 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+INFO - 20170105 15:18:00 --> Model Class Initialized
+ERROR - 20170105 15:18:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:18:00 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:18:00 --> Final output sent to browser
+DEBUG - 20170105 15:18:00 --> Total execution time: 0.1337
+INFO - 20170105 15:18:01 --> Config Class Initialized
+INFO - 20170105 15:18:01 --> Hooks Class Initialized
+DEBUG - 20170105 15:18:01 --> UTF-8 Support Enabled
+INFO - 20170105 15:18:01 --> Utf8 Class Initialized
+INFO - 20170105 15:18:01 --> URI Class Initialized
+INFO - 20170105 15:18:01 --> Router Class Initialized
+INFO - 20170105 15:18:01 --> Output Class Initialized
+INFO - 20170105 15:18:01 --> Security Class Initialized
+DEBUG - 20170105 15:18:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:18:01 --> Input Class Initialized
+INFO - 20170105 15:18:01 --> Language Class Initialized
+INFO - 20170105 15:18:01 --> Loader Class Initialized
+DEBUG - 20170105 15:18:01 --> cURL Class Initialized
+INFO - 20170105 15:18:01 --> Controller Class Initialized
+INFO - 20170105 15:18:01 --> Helper loaded: util_helper
+INFO - 20170105 15:18:01 --> Helper loaded: form_helper
+INFO - 20170105 15:18:01 --> Form Validation Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Database Driver Class Initialized
+DEBUG - 20170105 15:18:01 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+INFO - 20170105 15:18:01 --> Model Class Initialized
+ERROR - 20170105 15:18:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/application/models/common/LimitModel.php:24) /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php 8
+INFO - 20170105 15:18:01 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:18:01 --> Final output sent to browser
+DEBUG - 20170105 15:18:01 --> Total execution time: 0.4485
+INFO - 20170105 15:18:08 --> Config Class Initialized
+INFO - 20170105 15:18:08 --> Hooks Class Initialized
+DEBUG - 20170105 15:18:08 --> UTF-8 Support Enabled
+INFO - 20170105 15:18:08 --> Utf8 Class Initialized
+INFO - 20170105 15:18:08 --> URI Class Initialized
+INFO - 20170105 15:18:08 --> Router Class Initialized
+INFO - 20170105 15:18:08 --> Output Class Initialized
+INFO - 20170105 15:18:08 --> Security Class Initialized
+DEBUG - 20170105 15:18:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:18:08 --> Input Class Initialized
+INFO - 20170105 15:18:08 --> Language Class Initialized
+INFO - 20170105 15:18:08 --> Loader Class Initialized
+DEBUG - 20170105 15:18:08 --> cURL Class Initialized
+INFO - 20170105 15:18:08 --> Controller Class Initialized
+INFO - 20170105 15:18:08 --> Helper loaded: util_helper
+INFO - 20170105 15:18:08 --> Helper loaded: form_helper
+INFO - 20170105 15:18:08 --> Form Validation Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Database Driver Class Initialized
+DEBUG - 20170105 15:18:08 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> Model Class Initialized
+INFO - 20170105 15:18:08 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:18:08 --> Final output sent to browser
+DEBUG - 20170105 15:18:08 --> Total execution time: 0.1825
+INFO - 20170105 15:18:10 --> Config Class Initialized
+INFO - 20170105 15:18:10 --> Hooks Class Initialized
+DEBUG - 20170105 15:18:10 --> UTF-8 Support Enabled
+INFO - 20170105 15:18:10 --> Utf8 Class Initialized
+INFO - 20170105 15:18:10 --> URI Class Initialized
+INFO - 20170105 15:18:10 --> Router Class Initialized
+INFO - 20170105 15:18:10 --> Output Class Initialized
+INFO - 20170105 15:18:10 --> Security Class Initialized
+DEBUG - 20170105 15:18:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:18:10 --> Input Class Initialized
+INFO - 20170105 15:18:10 --> Language Class Initialized
+INFO - 20170105 15:18:10 --> Loader Class Initialized
+DEBUG - 20170105 15:18:10 --> cURL Class Initialized
+INFO - 20170105 15:18:10 --> Controller Class Initialized
+INFO - 20170105 15:18:10 --> Helper loaded: util_helper
+INFO - 20170105 15:18:10 --> Helper loaded: form_helper
+INFO - 20170105 15:18:10 --> Form Validation Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Database Driver Class Initialized
+DEBUG - 20170105 15:18:10 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> Model Class Initialized
+INFO - 20170105 15:18:10 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:18:10 --> Final output sent to browser
+DEBUG - 20170105 15:18:10 --> Total execution time: 0.1847
+INFO - 20170105 15:19:43 --> Config Class Initialized
+INFO - 20170105 15:19:43 --> Hooks Class Initialized
+DEBUG - 20170105 15:19:43 --> UTF-8 Support Enabled
+INFO - 20170105 15:19:43 --> Utf8 Class Initialized
+INFO - 20170105 15:19:43 --> URI Class Initialized
+INFO - 20170105 15:19:43 --> Router Class Initialized
+INFO - 20170105 15:19:43 --> Output Class Initialized
+INFO - 20170105 15:19:43 --> Security Class Initialized
+DEBUG - 20170105 15:19:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:19:43 --> Input Class Initialized
+INFO - 20170105 15:19:43 --> Language Class Initialized
+INFO - 20170105 15:19:43 --> Loader Class Initialized
+DEBUG - 20170105 15:19:43 --> cURL Class Initialized
+INFO - 20170105 15:19:43 --> Controller Class Initialized
+INFO - 20170105 15:19:43 --> Helper loaded: util_helper
+INFO - 20170105 15:19:43 --> Helper loaded: form_helper
+INFO - 20170105 15:19:43 --> Form Validation Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Database Driver Class Initialized
+DEBUG - 20170105 15:19:43 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> Model Class Initialized
+INFO - 20170105 15:19:43 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:19:43 --> Final output sent to browser
+DEBUG - 20170105 15:19:43 --> Total execution time: 0.6787
+INFO - 20170105 15:23:16 --> Config Class Initialized
+INFO - 20170105 15:23:16 --> Hooks Class Initialized
+DEBUG - 20170105 15:23:16 --> UTF-8 Support Enabled
+INFO - 20170105 15:23:16 --> Utf8 Class Initialized
+INFO - 20170105 15:23:16 --> URI Class Initialized
+INFO - 20170105 15:23:16 --> Router Class Initialized
+INFO - 20170105 15:23:16 --> Output Class Initialized
+INFO - 20170105 15:23:16 --> Security Class Initialized
+DEBUG - 20170105 15:23:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:23:16 --> Input Class Initialized
+INFO - 20170105 15:23:16 --> Language Class Initialized
+INFO - 20170105 15:23:16 --> Loader Class Initialized
+DEBUG - 20170105 15:23:16 --> cURL Class Initialized
+INFO - 20170105 15:23:16 --> Controller Class Initialized
+INFO - 20170105 15:23:16 --> Helper loaded: util_helper
+INFO - 20170105 15:23:16 --> Helper loaded: form_helper
+INFO - 20170105 15:23:16 --> Form Validation Class Initialized
+INFO - 20170105 15:23:16 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Database Driver Class Initialized
+DEBUG - 20170105 15:23:17 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> Model Class Initialized
+INFO - 20170105 15:23:17 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:23:17 --> Final output sent to browser
+DEBUG - 20170105 15:23:17 --> Total execution time: 0.8611
+INFO - 20170105 15:23:18 --> Config Class Initialized
+INFO - 20170105 15:23:18 --> Hooks Class Initialized
+DEBUG - 20170105 15:23:18 --> UTF-8 Support Enabled
+INFO - 20170105 15:23:18 --> Utf8 Class Initialized
+INFO - 20170105 15:23:18 --> URI Class Initialized
+INFO - 20170105 15:23:18 --> Router Class Initialized
+INFO - 20170105 15:23:18 --> Output Class Initialized
+INFO - 20170105 15:23:18 --> Security Class Initialized
+DEBUG - 20170105 15:23:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:23:18 --> Input Class Initialized
+INFO - 20170105 15:23:18 --> Language Class Initialized
+INFO - 20170105 15:23:18 --> Loader Class Initialized
+DEBUG - 20170105 15:23:18 --> cURL Class Initialized
+INFO - 20170105 15:23:18 --> Controller Class Initialized
+INFO - 20170105 15:23:18 --> Helper loaded: util_helper
+INFO - 20170105 15:23:18 --> Helper loaded: form_helper
+INFO - 20170105 15:23:18 --> Form Validation Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Database Driver Class Initialized
+DEBUG - 20170105 15:23:18 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:18 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:23:19 --> Final output sent to browser
+DEBUG - 20170105 15:23:19 --> Total execution time: 0.1347
+INFO - 20170105 15:23:19 --> Config Class Initialized
+INFO - 20170105 15:23:19 --> Hooks Class Initialized
+DEBUG - 20170105 15:23:19 --> UTF-8 Support Enabled
+INFO - 20170105 15:23:19 --> Utf8 Class Initialized
+INFO - 20170105 15:23:19 --> URI Class Initialized
+INFO - 20170105 15:23:19 --> Router Class Initialized
+INFO - 20170105 15:23:19 --> Output Class Initialized
+INFO - 20170105 15:23:19 --> Security Class Initialized
+DEBUG - 20170105 15:23:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:23:19 --> Input Class Initialized
+INFO - 20170105 15:23:19 --> Language Class Initialized
+INFO - 20170105 15:23:19 --> Loader Class Initialized
+DEBUG - 20170105 15:23:19 --> cURL Class Initialized
+INFO - 20170105 15:23:19 --> Controller Class Initialized
+INFO - 20170105 15:23:19 --> Helper loaded: util_helper
+INFO - 20170105 15:23:19 --> Helper loaded: form_helper
+INFO - 20170105 15:23:19 --> Form Validation Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Database Driver Class Initialized
+DEBUG - 20170105 15:23:19 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:23:19 --> Final output sent to browser
+DEBUG - 20170105 15:23:19 --> Total execution time: 0.1324
+INFO - 20170105 15:23:19 --> Config Class Initialized
+INFO - 20170105 15:23:19 --> Hooks Class Initialized
+DEBUG - 20170105 15:23:19 --> UTF-8 Support Enabled
+INFO - 20170105 15:23:19 --> Utf8 Class Initialized
+INFO - 20170105 15:23:19 --> URI Class Initialized
+INFO - 20170105 15:23:19 --> Router Class Initialized
+INFO - 20170105 15:23:19 --> Output Class Initialized
+INFO - 20170105 15:23:19 --> Security Class Initialized
+DEBUG - 20170105 15:23:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:23:19 --> Input Class Initialized
+INFO - 20170105 15:23:19 --> Language Class Initialized
+INFO - 20170105 15:23:19 --> Loader Class Initialized
+DEBUG - 20170105 15:23:19 --> cURL Class Initialized
+INFO - 20170105 15:23:19 --> Controller Class Initialized
+INFO - 20170105 15:23:19 --> Helper loaded: util_helper
+INFO - 20170105 15:23:19 --> Helper loaded: form_helper
+INFO - 20170105 15:23:19 --> Form Validation Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Database Driver Class Initialized
+DEBUG - 20170105 15:23:19 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> Model Class Initialized
+INFO - 20170105 15:23:19 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:23:19 --> Final output sent to browser
+DEBUG - 20170105 15:23:19 --> Total execution time: 0.2705
+INFO - 20170105 15:23:20 --> Config Class Initialized
+INFO - 20170105 15:23:20 --> Hooks Class Initialized
+DEBUG - 20170105 15:23:20 --> UTF-8 Support Enabled
+INFO - 20170105 15:23:20 --> Utf8 Class Initialized
+INFO - 20170105 15:23:20 --> URI Class Initialized
+INFO - 20170105 15:23:20 --> Router Class Initialized
+INFO - 20170105 15:23:20 --> Output Class Initialized
+INFO - 20170105 15:23:20 --> Security Class Initialized
+DEBUG - 20170105 15:23:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:23:20 --> Input Class Initialized
+INFO - 20170105 15:23:20 --> Language Class Initialized
+INFO - 20170105 15:23:20 --> Loader Class Initialized
+DEBUG - 20170105 15:23:20 --> cURL Class Initialized
+INFO - 20170105 15:23:20 --> Controller Class Initialized
+INFO - 20170105 15:23:20 --> Helper loaded: util_helper
+INFO - 20170105 15:23:20 --> Helper loaded: form_helper
+INFO - 20170105 15:23:20 --> Form Validation Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Database Driver Class Initialized
+DEBUG - 20170105 15:23:20 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:23:20 --> Final output sent to browser
+DEBUG - 20170105 15:23:20 --> Total execution time: 0.1219
+INFO - 20170105 15:23:20 --> Config Class Initialized
+INFO - 20170105 15:23:20 --> Hooks Class Initialized
+DEBUG - 20170105 15:23:20 --> UTF-8 Support Enabled
+INFO - 20170105 15:23:20 --> Utf8 Class Initialized
+INFO - 20170105 15:23:20 --> URI Class Initialized
+INFO - 20170105 15:23:20 --> Router Class Initialized
+INFO - 20170105 15:23:20 --> Output Class Initialized
+INFO - 20170105 15:23:20 --> Security Class Initialized
+DEBUG - 20170105 15:23:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 15:23:20 --> Input Class Initialized
+INFO - 20170105 15:23:20 --> Language Class Initialized
+INFO - 20170105 15:23:20 --> Loader Class Initialized
+DEBUG - 20170105 15:23:20 --> cURL Class Initialized
+INFO - 20170105 15:23:20 --> Controller Class Initialized
+INFO - 20170105 15:23:20 --> Helper loaded: util_helper
+INFO - 20170105 15:23:20 --> Helper loaded: form_helper
+INFO - 20170105 15:23:20 --> Form Validation Class Initialized
+INFO - 20170105 15:23:20 --> Model Class Initialized
+INFO - 20170105 15:23:20 --> Database Driver Class Initialized
+DEBUG - 20170105 15:23:21 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> Model Class Initialized
+INFO - 20170105 15:23:21 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 15:23:21 --> Final output sent to browser
+DEBUG - 20170105 15:23:21 --> Total execution time: 0.2733
+INFO - 20170105 17:41:24 --> Config Class Initialized
+INFO - 20170105 17:41:24 --> Hooks Class Initialized
+DEBUG - 20170105 17:41:24 --> UTF-8 Support Enabled
+INFO - 20170105 17:41:24 --> Utf8 Class Initialized
+INFO - 20170105 17:41:24 --> URI Class Initialized
+INFO - 20170105 17:41:24 --> Router Class Initialized
+INFO - 20170105 17:41:24 --> Output Class Initialized
+INFO - 20170105 17:41:24 --> Security Class Initialized
+DEBUG - 20170105 17:41:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 17:41:24 --> Input Class Initialized
+INFO - 20170105 17:41:24 --> Language Class Initialized
+ERROR - 20170105 17:41:24 --> 404 Page Not Found: User/article_list
+INFO - 20170105 17:41:32 --> Config Class Initialized
+INFO - 20170105 17:41:32 --> Hooks Class Initialized
+DEBUG - 20170105 17:41:32 --> UTF-8 Support Enabled
+INFO - 20170105 17:41:32 --> Utf8 Class Initialized
+INFO - 20170105 17:41:32 --> URI Class Initialized
+INFO - 20170105 17:41:32 --> Router Class Initialized
+INFO - 20170105 17:41:32 --> Output Class Initialized
+INFO - 20170105 17:41:32 --> Security Class Initialized
+DEBUG - 20170105 17:41:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170105 17:41:32 --> Input Class Initialized
+INFO - 20170105 17:41:32 --> Language Class Initialized
+INFO - 20170105 17:41:32 --> Loader Class Initialized
+DEBUG - 20170105 17:41:32 --> cURL Class Initialized
+INFO - 20170105 17:41:32 --> Controller Class Initialized
+INFO - 20170105 17:41:32 --> Helper loaded: util_helper
+INFO - 20170105 17:41:32 --> Helper loaded: form_helper
+INFO - 20170105 17:41:32 --> Form Validation Class Initialized
+INFO - 20170105 17:41:32 --> Model Class Initialized
+INFO - 20170105 17:41:32 --> Database Driver Class Initialized
+DEBUG - 20170105 17:41:32 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> Model Class Initialized
+INFO - 20170105 17:41:34 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170105 17:41:34 --> Final output sent to browser
+DEBUG - 20170105 17:41:34 --> Total execution time: 1.4300

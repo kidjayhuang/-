@@ -1,0 +1,24 @@
+<template name="nearby-cell">
+	<view hover hover-class="cell-hover" class="flex__row bg-color__white font-size__large color__gray" style="margin-bottom: 20rpx;padding:20rpx 0 20rpx 30rpx;line-height: 40rpx;border-top: 1rpx solid #e5e5e5;border-bottom: 1rpx solid #e5e5e5;" data-id="{{item.activity_id}}" bindtap="showActivity">
+		<image class="icon__80 radius__half" src="{{item.user_info.avatar_url}}"></image>
+		<view class="flex__col" style="flex:1;padding-left: 20rpx;">
+			<view class="flex__row" style="justify-content: space-between;padding-right: 30rpx;">
+				<view style="align-items: center;" class="flex__row">
+					<text class="font__bold color__black">{{item.user_info.nick_name}}</text>
+					<image wx:if="{{item.user_info.gender == 1}}" style="padding-left: 10rpx;" class="icon__30" src="/images/icon-male.png" />
+					<image wx:if="{{item.user_info.gender == 2}}" style="padding-left: 10rpx;" class="icon__30" src="/images/icon-female.png" />
+				</view>
+				<text class="color__gray">{{item.distance_desc}}</text>
+			</view>
+			<view style="padding:10rpx 30rpx 10rpx 0;">
+				<text class="color__dark">{{item.title}}</text>
+			</view>
+			<view class="flex__row" style="align-items: center;">
+				<image style="padding-right: 10rpx;" class="icon__30" src="/images/icon-date.png" />
+				<text style="padding-right: 50rpx;">{{item.action_time}}</text>
+				<image style="padding-right: 10rpx;" class="icon__30" src="/images/icon-member-count.png" />
+				<text>{{item.member_count}}</text>
+			</view>
+		</view>
+	</view>
+</template>

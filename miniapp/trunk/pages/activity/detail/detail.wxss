@@ -1,0 +1,3 @@
+/* pages/article/article.wxss */
+@import "/templates/primary-button/primary-button.wxss";
+@import "/templates/button/button.wxss";

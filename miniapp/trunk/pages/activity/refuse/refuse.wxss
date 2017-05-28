@@ -1,0 +1,2 @@
+/* pages/activity/refuse/refuse.wxss */
+@import "/templates/primary-button/primary-button.wxss";

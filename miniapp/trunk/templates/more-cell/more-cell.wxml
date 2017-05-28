@@ -1,0 +1,12 @@
+<template name="more-cell">
+  <view wx:if="{{url}}" hover hover-class="cell-hover" bindtap="{{url}}" class="widget bg-color__white flex__row">
+    <text class="widget__title font-size__x-large color__black">{{title}}</text>
+    <text class="widget__subtitle font-size__x-large color__black{{nowrap ? ' font-nowrap' : ''}}">{{subTitle}}</text>
+    <image wx:if="{{url != ''}}" class="widget__arrow" src="/images/icon-more.png" mode="aspectFill" />
+  </view>
+   <view wx:else="{{url == ''}}" class="widget bg-color__white flex__row">
+    <text class="widget__title font-size__x-large color__black">{{title}}</text>
+    <text class="widget__subtitle font-size__x-large color__black{{nowrap ? ' font-nowrap' : ''}}">{{subTitle}}</text>
+    <image wx:if="{{url != ''}}" class="widget__arrow" src="/images/icon-more.png" mode="aspectFill" />
+  </view>
+</template>

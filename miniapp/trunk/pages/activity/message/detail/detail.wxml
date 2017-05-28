@@ -1,0 +1,30 @@
+<import src="/templates/primary-button/primary-button.wxml" />
+<import src="/templates/default-button/default-button.wxml" />
+<view class="flex__col">
+<view id="navigationBarLine"></view>
+<view class="bg-color__white" style="padding:40rpx 30rpx;">
+    <view class="flex__row" style="justify-content:space-between;">
+      <image class="icon__100 radius__half" src="{{verifyData.user_info.avatar_url}}"></image>
+      <view class="flex__col" style="padding-left:20rpx;flex:1;">
+        <view class="flex__row" style="justify-content:space-between;align-items:center;">
+          <text style="line-height:48rpx;" class="color__black font-size__x-large font__bold">{{verifyData.user_info.nick_name}}</text>
+          <text style="line-height:48rpx;" class="color__gray font-size__medium">{{verifyData.apply_time || ''}}</text>
+        </view>
+        <text style="line-height:40rpx;" class="color__black font-size__large">申请加入活动"{{verifyData.activity_title}}"</text>
+      </view>
+    </view>
+    <view wx:if="{{verifyData.remark}}" style="margin-top:15rpx;">
+      <view style="margin-left:42rpx;width: 0;height: 0;border-left: 15rpx solid transparent;border-right: 15rpx solid transparent;border-bottom: 16rpx solid #f6f9fd;"></view>
+      <view style="padding:30rpx;background-color:rgba(73, 143, 225, 0.05);" class="radius__15">
+        <text style="line-height:38rpx;" class="color__black font-size__large">{{verifyData.remark}}</text>
+      </view>
+    </view>
+  </view>
+  <block wx:if="{{verifyData.result == 100}}">
+    <template is="primary-button" data="{{name:'同意',handle:'agree'}}" />
+    <template is="default-button" data="{{name:'拒绝',handle:'refuse'}}" />
+  </block>
+  <block wx:if="{{!verifyData.result}}">
+    <template is="default-button" data="{{name:'移出本活动',handle:'kick'}}" />
+  </block>
+</view>

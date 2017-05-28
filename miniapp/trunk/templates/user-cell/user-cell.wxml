@@ -1,0 +1,9 @@
+<template name="user-cell">
+  <view hover hover-class="cell-hover" data-id="{{user_id}}" data-verify="{{verify_id}}" class="flex__row bg-color__white" style="align-items:center;height:120rpx;padding:0 30rpx;border-bottom:1rpx solid #e5e5e5;" bindtap="{{handle}}">
+    <image class="icon__70 radius__half" src="{{profile.avatar_url}}"></image>
+    <view class="flex__row" style="width:585rpx;align-items:center;margin-left:20rpx;">
+      <text class="font-size__x-large color__black font-nowrap">{{profile.nick_name}}</text>
+    </view>
+    <image class="widget__arrow" src="/images/icon-more.png" mode="aspectFill" />
+  </view>
+</template>

@@ -1,0 +1,7 @@
+<import src="/templates/primary-button/primary-button.wxml" />
+<view class="flex__col">
+  <view class="bg-color__white" style="padding:30rpx;30rpx;height:240rpx;">
+    <textarea placeholder="{{request}}" style="width:100%;height:100%" class="font-size__x-large" bindinput="bindRemarkInput" />
+  </view>
+  <template is="primary-button" data="{{...button}}" />
+</view>

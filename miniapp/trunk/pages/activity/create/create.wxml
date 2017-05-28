@@ -1,0 +1,80 @@
+<import src="/templates/primary-button/primary-button.wxml" />
+<import src="/templates/more-cell/more-cell.wxml" />
+<view id="navigationBarLine"></view>
+<view class="font-size__x-large" style="padding-bottom:40rpx;">
+  <view class="bg-color__white flex__row" style="padding-left:30rpx;height:88rpx;justify-content:space-between;align-items:center;">
+    <input style="width:100%;" value="{{titleValue}}" placeholder="活动标题" placeholder-style="color:#dcdcdc;font-size:34rpx;" bindinput="bindTitleInput"></input>
+    <icon type="clear" color="#d8d8d8" wx:if="{{title != ''}}" bindtap="clearTitleInput" style="padding-left:20rpx;padding-right:30rpx;padding-top:14rpx;padding-bottom:15rpx;"></icon>
+  </view>
+  <view class="bg-color__white cell">
+    <view class="bg-color__white" style="padding-top:22rpx;">
+      <textarea auto-height class="color__black font-size__x-large" style="width:690rpx;line-height:48rpx;padding:0 30rpx;" placeholder="描述一下本次活动" bindinput="bindDescInput" placeholder-style="color:#dcdcdc;font-size:34rpx;" />
+      <view class="flex__row" style="flex-wrap:wrap;padding:6rpx 30rpx 30rpx 30rpx;">
+        <block wx:for="{{pics}}">
+          <view class="icon__116" style="padding:30rpx 22rpx 0 0;">
+            <image src="{{item}}" class="icon__116" style="display: block;" mode="aspectFill" data-index="{{index}}" bindtap="handlePhoto"></image>
+            <view wx:if="{{uploadResult[index] == 0}}" class="icon__116 flex__col" style="margin-top: -116rpx;background-color: rgba(0,0,0,0.4);justify-content: center;align-items: center;position: absolute;" data-index="{{index}}" bindtap="handlePhoto">
+              <icon type="waiting" color="white"></icon>
+              <text class="color__white font-size__medium" style="padding-top: 10rpx;">上传中</text>
+            </view>
+            <view wx:if="{{uploadResult[index] == 2}}" class="icon__116 flex__col" style="margin-top: -116rpx;background-color: rgba(0,0,0,0.4);justify-content: center;align-items: center;position: absolute;" data-index="{{index}}" bindtap="handlePhoto">
+              <icon type="warn" color="white"></icon>
+              <text class="color__white font-size__medium" style="padding-top: 10rpx;">上传失败</text>
+            </view>
+          </view>
+        </block>
+        <image src="/images/icon-choose.png" class="icon__116" style="padding-top:30rpx;" bindtap="choosePhoto"></image>
+      </view>
+    </view>
+  </view>
+  <view class="bg-color__white font-size__x-large cell">
+    <picker mode="date" value="{{date}}" start="{{today}}" end="" bindchange="bindDateChange">
+      <template is="more-cell" data="{{url:'emptyHandle',title:'活动日期',subTitle:date}}" />
+    </picker>
+    <view style="margin-left:30rpx;border-bottom:1rpx solid #e5e5e5"></view>
+    <picker mode="time" value="{{time}}" start="00:00" end="" bindchange="bindTimeChange">
+      <template is="more-cell" data="{{url:'emptyHandle',title:'具体时间',subTitle:time}}" />
+    </picker>
+    <view style="margin-left:30rpx;border-bottom:1rpx solid #e5e5e5"></view>
+    <template is="more-cell" data="{{url:'chooseLocation',title:'选择地址',subTitle:location.address}}" />
+    <view class="font-size__x-large" style="margin-left:30rpx;height:1rpx;background-color:#e5e5e5;"></view>
+    <view class="flex__row" style="padding:0 30rpx;height:88rpx;justify-content:space-between;align-items:center;">
+      <view class="section__title font-size__x-large color__black">详细地址</view>
+      <input class="section__input color__black" placeholder-style="color:#dcdcdc;font-size:34rpx;" placeholder="例:软件园4栋C座星巴克" value="{{location.name}}" bindinput="bindAddressInput" />
+    </view>
+  </view>
+  <view class="bg-color__white font-size__x-large cell">
+    <picker value="{{memberIndex}}" range="{{memberList}}" bindchange="bindMemberChange">
+      <template is="more-cell" data="{{url:'emptyHandle',title:'活动人数',subTitle:memberList[memberIndex]}}" />
+    </picker>
+    <view style="margin-left:30rpx;border-bottom:1rpx solid #e5e5e5"></view>
+    <picker value="{{payIndex}}" range="{{payList}}" bindchange="bindPayChange">
+      <template is="more-cell" data="{{url:'emptyHandle',title:'付款方式',subTitle:payList[payIndex]}}" />
+    </picker>
+    <block wx:if="{{payIndex != 0}}">
+      <view style="margin-left:30rpx;border-bottom:1rpx solid #e5e5e5"></view>
+      <picker value="{{costIndex}}" range="{{costList}}" bindchange="bindCostChange">
+        <template is="more-cell" data="{{url:'emptyHandle',title:'人均消费',subTitle:costList[costIndex]}}" />
+      </picker>
+    </block>
+    <block wx:if="{{costIndex == 0}}">
+      <view style="margin-left:30rpx;border-bottom:1rpx solid #e5e5e5"></view>
+      <view class="flex__row" style="padding:0 30rpx;height:120rpx;justify-content:space-between;align-items:center;">
+        <view class="section__title">具体金额</view>
+        <input type="digit" class="section__input color__black" placeholder-style="color:#dcdcdc;font-size:34rpx;" placeholder="例:66.66" value="" bindinput="bindCostInput" />
+      </view>
+    </block>
+  </view>
+  <view class="bg-color__white flex__col cell">
+    <view class="flex__row" style="padding:0 30rpx;height:88rpx;justify-content:space-between;align-items:center;">
+      <view class="section__title">加入审核</view>
+      <switch checked="{{isCheck}}" color="rgb(73,144,226)" bindchange="checkSwitchChange" />
+    </view>
+    <view style="margin-left:30rpx;border-bottom:1rpx solid #e5e5e5"></view>
+    <view class="flex__row" style="padding:0 30rpx;height:88rpx;justify-content:space-between;align-items:center;">
+      <view class="section__title">附加信息</view>
+      <input class="section__input color__black" placeholder-style="color:#dcdcdc;font-size:34rpx;" placeholder="例:你的姓名和电话是?" bindinput="bindQuestionInput" />
+    </view>
+  </view>
+  <template is="primary-button" data="{{...button}}" />
+</view>

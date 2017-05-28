@@ -1,0 +1,5 @@
+<template name="default-button">
+  <view class="color__blue flex__row font-size__x-large radius__15 default__button" hover="true" hover-class="default__button-hover" bindtap="{{handle || ''}}">
+    <text class="font-size__x-large color__blue" style="line-height:38rpx;">{{name || ''}}</text>
+  </view>
+</template>

@@ -1,0 +1,2 @@
+@import "/templates/create-article-button/create-article-button.wxss";
+@import "/templates/nearby-cell/nearby-cell.wxss";

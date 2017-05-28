@@ -1,0 +1,5 @@
+/* pages/info/info.wxss */
+@import "/templates/button/button.wxss";
+page {
+    background-color: white;
+}

@@ -1,0 +1,9 @@
+<template name="message-cell">
+  <view hover hover-class="cell-hover" wx:if="{{unreadCount > 0}}" class="message flex__row" bindtap="{{handle}}">
+    <view class="message__box radius__30 height__60 bg-color__white font-size__medium color__black flex__row">
+      <text>您有</text>
+      <text class="message__count color__blue"> {{unreadCount}} </text>
+      <text>条{{type}}</text>
+    </view>
+  </view>
+</template>

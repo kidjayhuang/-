@@ -1,0 +1,32 @@
+<view id="navigationBarLine"></view>
+<view>
+  <view wx:if="{{comments.length == 0}}" class="flex__col bg-color__white" style="position:absolute;width:100%;height:100%;align-items:center;">
+    <image style="margin-top:200rpx;width:300rpx;height:280rpx;" src="{{tip.image}}"></image>
+    <text class="color__gray font-size__medium" style="padding-top:20rpx;">{{tip.title}}</text>
+  </view>
+  <block wx:for="{{comments}}" wx:key="comment-{{item.reply_id}}">
+    <view hover hover-class="cell-hover" class="color__gray flex__row" style="padding:40rpx 30rpx 0;line-height:38rpx;background-color:#ffffff;" data-id="{{item.user_id}}" data-name="{{item.user_info.nick_name}}" data-index="{{index + 1}}" data-author="{{item.is_author}}" data-reply="{{item.reply_id}}"
+    catchtap="selectReply">
+      <image class="icon__60 radius__half" style="" src="{{item.user_info.avatar_url}}"></image>
+      <view class="flex__col {{index != comments.length-1 ? ' item__border-bottom' : ''}}" style="width:100%;margin-left:20rpx;">
+        <text class="color__black font__bold font-size__large" style="line-height:38rpx;">{{item.user_info.nick_name}}</text>
+        <view class="flex__row">
+          <text class="color__dark font-size__large" style="line-height:40rpx;" wx:if="{{item.to_user_id && item.to_user_id != 0}}"> 回复</text>
+          <text class="color__black font__bold font-size__large" style="line-height:40rpx;">{{item.to_user_info.nick_name}}</text>
+          <text wx:if="{{item.to_user_id && item.to_user_id != 0}}" class="color__black">：</text>
+          <text class="color__dark font-size__large" style="line-height:40rpx;">{{item.content}}</text>
+        </view>
+        <text class="font-size__large color__gray" style="padding-bottom: 20rpx;line-height:40rpx;">{{item.create_time}}</text>
+      </view>
+    </view>
+  </block>
+
+  <view class="flex__row" style="position:fixed;bottom:0;width:100%;border-top:1rpx solid #e5e5e5;background-color:#fafafa;">
+    <input style="height:60rpx;padding:0 10rpx;border:1rpx solid #c9c9c9;border-radius:15rpx;width:100%;margin:20rpx 20rpx 20rpx 30rpx;" class="bg-color__white font-size__large color__black" placeholder="{{toUserName == '' ? '评论' : '回复' + toUserName}}" placeholder-style="color:#dcdcdc"
+    value="{{replyContent}}" bindinput="bindReplyInput" />
+    <view style="margin-top:20rpx;margin-right:30rpx;border:2rpx solid;width:120rpx;height:60rpx;align-items:center;justify-content:center;flex-shrink: 0;" class="color__blue radius__15 flex__row font-size__large" bindtap="reply">
+      <text>提交</text>
+    </view>
+  </view>
+  
+</view>

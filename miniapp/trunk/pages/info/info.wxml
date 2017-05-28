@@ -1,0 +1,16 @@
+<import src="/templates/button/button.wxml" />
+<view>
+  <view id="navigationBarLine"></view>
+  <view wx:if="{{auth != 0}}" class="flex__col font-size__medium bg-color__white" style="align-items:center;justify-content:center;margin-bottom:20rpx;padding:90rpx 30rpx;">
+    <image style="width:300rpx;height:280rpx;" src="/images/icon-logo.jpg"></image>
+    <text class="font__bold">小城生活</text>
+    <text wx:if="{{auth != 1}}" style="padding-top:20rpx;text-align: center;line-height: 38rpx;" class="color__gray">小城活动需要授权其获取你的用户信息才能使用相关功能，请重新授权</text>
+    <text wx:if="{{auth == 1}}" style="padding-top:20rpx;text-align: center;line-height: 38rpx;" class="color__gray">你已授权小城生活使用用户信息</text>
+    <view wx:if="{{auth != 1}}" style="padding-top:30rpx">
+      <template is="button" data="{{title:'重新授权',handle:'reauth'}}" />
+    </view>
+    <view wx:if="{{auth == 1}}" style="padding-top:30rpx">
+      <template is="button" data="{{title:'去小城生活',handle:'home'}}" />
+    </view>
+  </view>
+</view>

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/activity/near/near",
+    "pages/activity/published/published",
+    "pages/activity/joined/joined",
+    "pages/activity/create/create",
+    "pages/activity/detail/detail",
+    "pages/activity/message/message",
+    "pages/activity/message/detail/detail",
+    "pages/activity/member/member",
+    "pages/activity/refuse/refuse",
+    "pages/activity/comments/comments",
+    "pages/activity/join/join"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#efeff4",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "小城活动",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/activity/near/near",
+        "text": "  附近活动  "
+      },
+      {
+        "pagePath": "pages/activity/published/published",
+        "text": "  我发布的  "
+      },
+      {
+        "pagePath": "pages/activity/joined/joined",
+        "text": "  我参加的  "
+      }
+    ],
+    "color": "#888888",
+    "selectedColor": "#4a90e2",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "position": "top"
+  },
+  "networkTimeout": {
+    "request": 20000,
+    "connectSocket": 20000,
+    "uploadFile": 20000,
+    "downloadFile": 20000
+  },
+  "debug": true
+}

@@ -1,0 +1,35 @@
+/* pages/activity/create/create.wxss */
+@import "/templates/primary-button/primary-button.wxss";
+@import "/templates/more-cell/more-cell.wxss";
+
+page {
+  background-color: #efeff4;
+}
+
+.cell {
+  margin-bottom: 20rpx;
+  border-top: 1rpx solid #e5e5e5;
+  border-bottom: 1rpx solid #e5e5e5;
+}
+
+.code {
+  width: 90rpx;
+  height: 90rpx;
+  border: 1rpx solid #e5e5e5;
+  text-align: center;
+}
+
+.focus {
+  border: 1rpx solid #4a90e2;
+}
+
+.section__title {
+  flex-shrink: 0;
+}
+
+.section__input {
+  width: 100%;
+  padding-left: 44rpx;
+  font-size: 34rpx;
+  color: #000000;
+}

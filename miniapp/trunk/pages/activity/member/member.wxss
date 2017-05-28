@@ -1,0 +1,9 @@
+/* pages/activity/member/member.wxss */
+
+.member__group_title {
+  padding: 40rpx 30rpx 20rpx 30rpx;
+  display: block;
+  border-bottom: 1rpx solid #e5e5e5;
+  line-height: 36rpx;
+  font-size: 26rpx;
+}

@@ -1,0 +1,92 @@
+<import src="/templates/primary-button/primary-button.wxml" />
+<import src="/templates/button/button.wxml" />
+<import src="/templates/auth-view/auth-view.wxml" />
+<view class="font-size__large color__black flex__col" style="padding-bottom: 40rpx;">
+  <view id="navigationBarLine"></view>
+  <template is="auth-view" data="{{auth}}"></template>
+  <view wx:if="{{auth == 1}}" class="bg-color__white" style="padding-top: 40rpx;margin-bottom:20rpx;border-top: 1rpx solid #e5e5e5;border-bottom: 1rpx solid #e5e5e5;">
+    <view style="padding:0 30rpx;" class="flex__row">
+      <image class="icon__80 radius__half" src="{{activity.creator_info.avatar_url}}" data-id="{{activity.creator}}"></image>
+      <view class="flex__col" style="justify-content:space-between;padding-left:20rpx;width:100%;">
+        <text class="font-size__x-large font__bold" data-id="{{activity.creator}}">{{activity.creator_info.nick_name}}</text>
+        <text class="font-size__medium color__gray">{{activity.create_time}}</text>
+      </view>
+    </view>
+    <view class="font-size__x-large  text-align__justify font__bold" style="display:block; line-height: 48rpx; padding: 20rpx 30rpx;">
+        <text class="color__blue">{{status == 120 ? '[已结束]' : ''}}{{status == 200 ? '[已取消]' : ''}}{{status == 110 ? '[停止报名]' : ''}}</text>
+        <text class="color__black">{{activity.title}}</text>
+      </view>
+    <view style="padding:0 30rpx 20rpx 30rpx;line-height:40rpx;">
+      <text class="color__dark">{{activity.desc}}</text>
+    </view>
+    <scroll-view scroll-x="true" style="display: flex;flex-direction: row;flex-wrap: nowrap;white-space: nowrap;">
+      <image wx:for="{{activity.pic_list}}" wx:key="pic-{{index}}" class="icon__200" src="{{item}}/thumb" style="{{index == 0 ? 'padding-left:30rpx;' : ''}}padding-right:10rpx;" data-article-index="{{articleIndex}}" data-index="{{index}}" mode="aspectFill"
+      catchtap="showAlbum"></image>
+    </scroll-view>
+    <view style="padding:20rpx 30rpx;justify-content:space-between;" class="flex__row">
+      <view class="flex__row" style="flex: 1;justify-content: center;align-items: center;">
+        <image style="width:35rpx;height:30rpx;" src="/images/icon-member.png"></image>
+        <text style="padding-left:10rpx;line-height: 40rpx;">{{members.member.length}}</text>
+      </view>
+      <view class="flex__row" style="flex: 1;justify-content: center;align-items: center;" hover hover-class="cell-hover" catchtap="showComments">
+        <image class="icon__30" src="/images/icon-comment.png"></image>
+        <text style="padding-left:10rpx;line-height: 40rpx;">{{replyCount}}</text>
+      </view>
+    </view>
+    <view wx:if="{{members.member.length > 0}}" class="bg-color__gray" style="margin:0 30rpx;height:1rpx;"></view>
+    <view wx:if="{{members.member.length > 0}}" class="flex__row" style="padding:20rpx 30rpx 10rpx 30rpx;">
+      <image class="icon__60 radius__half" src="/images/icon-member-header.png"></image>
+      <view style="padding-left:10rpx;flex-wrap:wrap;" class="flex__row">
+        <block wx:for="{{members.member}}">
+          <image class="icon__60 radius__half" style="margin-right:10rpx;margin-bottom:10rpx;" src="{{item.head}}"></image>
+        </block>
+      </view>
+    </view>
+  </view>
+  <view wx:if="{{auth == 1}}" style="margin-bottom:20rpx;padding: 0 30rpx;border-top: 1rpx solid #e5e5e5;border-bottom: 1rpx solid #e5e5e5;" class="flex__row bg-color__white" hover hover-class="cell-hover" bindtap="showMap">
+    <image style="margin-top: 22rpx;" class="icon__44" src="/images/icon-location.png" mode="aspectFit"></image>
+    <view style="padding: 24rpx 0 24rpx 10rpx;">
+      <text style="line-height: 40rpx;">{{activity.address}}</text>
+    </view>
+  </view>
+  <view wx:if="{{auth == 1}}" class="bg-color__white" style="padding:0rpx 0rpx 40rpx 40rpx;border-top: 1rpx solid #e5e5e5;border-bottom: 1rpx solid #e5e5e5;">
+    <view style="height:104rpx;padding:0rpx 40rpx 0rpx 0rpx;align-items:center;justify-content:space-between;" class="flex__row">
+      <text class="color__gray">人均消费</text>
+      <text class="font-size__xxx-large font__bold color__black">{{activity.price_begin == 0 && activity.price_end == 0 ? '免费' : ''}}{{activity.price_begin == activity.price_end && activity.price_begin != 0 ? '¥' + (activity.price_begin | 0) : ''}}{{activity.price_begin != activity.price_end && activity.price_end !=
+        999999 && activity.price_begin != 0 ? '¥' + (activity.price_begin | 0) + '~' + (activity.price_end | 0) : ''}}{{activity.price_begin != activity.price_end && activity.price_end == 999999 ? '¥' + (activity.price_begin | 0) + '以上' : ''}}{{activity.price_begin !=
+        activity.price_end && activity.price_begin == 0 ? '¥' + (activity.price_end | 0) + '以下' : ''}}</text>
+    </view>
+    <view class="divider__solid" />
+    <view style="height:43rpx;padding:30rpx 40rpx 15rpx 0rpx;justify-content:space-between;" class="flex__row color__gray">
+      <text>活动时间</text>
+      <text>{{activity.action_time}}</text>
+    </view>
+    <view style="height:43rpx;padding:0rpx 40rpx 15rpx 0rpx;justify-content:space-between;" class="flex__row color__gray">
+      <text>活动人数</text>
+      <text>{{activity.member_begin == 999999 ? '不限' : (activity.member_begin | 0) + '人'}}</text>
+    </view>
+    <view style="height:43rpx;padding:0rpx 40rpx 15rpx 0rpx;justify-content:space-between;" class="flex__row color__gray">
+      <text>付款方式</text>
+      <text>{{activity.pay_type == '100' ? '免费' : ''}}{{activity.pay_type == '101' ? 'AA' : ''}}{{activity.pay_type == '102' ? '我买单' : ''}}</text>
+    </view>
+    <view style="height:43rpx;padding:0rpx 40rpx 15rpx 0rpx;justify-content:space-between;" class="flex__row color__gray">
+      <text>加入方式</text>
+      <text>{{activity.join_verify == 0 ? '直接加入' : '需发起人审核'}}</text>
+    </view>
+    <view style="padding:0rpx 40rpx 0rpx 0rpx;justify-content:space-between;" class="flex__row color__gray">
+      <text style="flex-shrink: 0;">附加信息</text>
+      <text style="padding-left: 30rpx;">{{activity.verify_request}}</text>
+    </view>
+  </view>
+  <block wx:if="{{status == 101}}">
+    <template wx:if="{{activity.is_creator == 0 && members.in_activity == 0 && members.in_verify == 0}}" is="primary-button" data="{{name: '加入', handle: 'joinActivity', disable: false}}" />
+    <template wx:if="{{activity.is_creator == 0 && members.in_activity == 0 && members.in_verify == 1}}" is="primary-button" data="{{name: '加入', handle: 'joinActivity', disable: true}}" />
+    <template wx:if="{{activity.is_creator == 0 && members.in_activity == 1}}" is="primary-button" data="{{name: '退出', handle: 'quitActivity', disable: false}}" />
+  </block>
+  <block wx:elif="{{status == 110}}">
+    <template wx:if="{{activity.is_creator == 0 && members.in_activity == 1}}" is="primary-button" data="{{name: '退出', handle: 'quitActivity', disable: false}}" />
+  </block>
+  <block wx:if="{{status == 101 || status == 110}}">
+    <template wx:if="{{activity.is_creator == 1}}" is="primary-button" data="{{...manageButton}}" />
+  </block>
+</view>

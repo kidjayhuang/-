@@ -1,0 +1,5 @@
+<template name="create-article-button">
+  <view hover hover-class="create-article-button-hover" class="icon__120 radius__half flex__row create-article-button" bindtap="{{handle}}">
+    <image src="/images/icon-add.png"></image>
+  </view>
+</template>

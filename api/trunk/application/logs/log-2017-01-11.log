@@ -1,0 +1,146 @@
+INFO - 20170111 14:48:05 --> Config Class Initialized
+INFO - 20170111 14:48:05 --> Hooks Class Initialized
+DEBUG - 20170111 14:48:05 --> UTF-8 Support Enabled
+INFO - 20170111 14:48:05 --> Utf8 Class Initialized
+INFO - 20170111 14:48:05 --> URI Class Initialized
+INFO - 20170111 14:48:05 --> Router Class Initialized
+INFO - 20170111 14:48:05 --> Output Class Initialized
+INFO - 20170111 14:48:05 --> Security Class Initialized
+DEBUG - 20170111 14:48:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170111 14:48:05 --> Input Class Initialized
+INFO - 20170111 14:48:05 --> Language Class Initialized
+ERROR - 20170111 14:48:05 --> 404 Page Not Found: Cache/article
+INFO - 20170111 14:48:17 --> Config Class Initialized
+INFO - 20170111 14:48:17 --> Hooks Class Initialized
+DEBUG - 20170111 14:48:17 --> UTF-8 Support Enabled
+INFO - 20170111 14:48:17 --> Utf8 Class Initialized
+INFO - 20170111 14:48:17 --> URI Class Initialized
+INFO - 20170111 14:48:17 --> Router Class Initialized
+INFO - 20170111 14:48:17 --> Output Class Initialized
+INFO - 20170111 14:48:17 --> Security Class Initialized
+DEBUG - 20170111 14:48:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170111 14:48:17 --> Input Class Initialized
+INFO - 20170111 14:48:17 --> Language Class Initialized
+INFO - 20170111 14:48:17 --> Loader Class Initialized
+DEBUG - 20170111 14:48:17 --> cURL Class Initialized
+INFO - 20170111 14:48:17 --> Controller Class Initialized
+INFO - 20170111 14:48:17 --> Helper loaded: util_helper
+INFO - 20170111 14:48:17 --> Helper loaded: form_helper
+INFO - 20170111 14:48:17 --> Form Validation Class Initialized
+INFO - 20170111 14:48:17 --> Model Class Initialized
+INFO - 20170111 14:48:17 --> Database Driver Class Initialized
+DEBUG - 20170111 14:48:17 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+ERROR - 20170111 14:48:19 --> Severity: Warning --> Redis::connect(): connect() failed: Connection refused /Users/rayqin/svn/scc/api/trunk/application/models/RedisCliModel.php 34
+ERROR - 20170111 14:48:19 --> Severity: error --> Exception: Redis server went away /Users/rayqin/svn/scc/api/trunk/application/models/RedisCliModel.php 35
+ERROR - 20170111 14:48:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /Users/rayqin/svn/scc/api/trunk/system/core/Exceptions.php:271) /Users/rayqin/svn/scc/api/trunk/system/core/Common.php 578
+INFO - 20170111 14:50:03 --> Config Class Initialized
+INFO - 20170111 14:50:03 --> Hooks Class Initialized
+DEBUG - 20170111 14:50:03 --> UTF-8 Support Enabled
+INFO - 20170111 14:50:03 --> Utf8 Class Initialized
+INFO - 20170111 14:50:03 --> URI Class Initialized
+INFO - 20170111 14:50:03 --> Router Class Initialized
+INFO - 20170111 14:50:03 --> Output Class Initialized
+INFO - 20170111 14:50:03 --> Security Class Initialized
+DEBUG - 20170111 14:50:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170111 14:50:03 --> Input Class Initialized
+INFO - 20170111 14:50:03 --> Language Class Initialized
+INFO - 20170111 14:50:03 --> Loader Class Initialized
+DEBUG - 20170111 14:50:03 --> cURL Class Initialized
+INFO - 20170111 14:50:03 --> Controller Class Initialized
+INFO - 20170111 14:50:03 --> Helper loaded: util_helper
+INFO - 20170111 14:50:03 --> Helper loaded: form_helper
+INFO - 20170111 14:50:03 --> Form Validation Class Initialized
+INFO - 20170111 14:50:03 --> Model Class Initialized
+INFO - 20170111 14:50:03 --> Database Driver Class Initialized
+DEBUG - 20170111 14:50:03 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170111 14:50:03 --> File loaded: /Users/rayqin/svn/scc/api/trunk/application/views/outputjson.php
+INFO - 20170111 14:50:03 --> Final output sent to browser
+DEBUG - 20170111 14:50:03 --> Total execution time: 0.2683
+INFO - 20170111 14:52:48 --> Config Class Initialized
+INFO - 20170111 14:52:48 --> Hooks Class Initialized
+DEBUG - 20170111 14:52:48 --> UTF-8 Support Enabled
+INFO - 20170111 14:52:48 --> Utf8 Class Initialized
+INFO - 20170111 14:52:48 --> URI Class Initialized
+INFO - 20170111 14:52:48 --> Router Class Initialized
+INFO - 20170111 14:52:48 --> Output Class Initialized
+INFO - 20170111 14:52:48 --> Security Class Initialized
+DEBUG - 20170111 14:52:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170111 14:52:48 --> Input Class Initialized
+INFO - 20170111 14:52:48 --> Language Class Initialized
+INFO - 20170111 14:52:48 --> Loader Class Initialized
+DEBUG - 20170111 14:52:48 --> cURL Class Initialized
+INFO - 20170111 14:52:48 --> Controller Class Initialized
+INFO - 20170111 14:52:48 --> Helper loaded: util_helper
+INFO - 20170111 14:52:48 --> Helper loaded: form_helper
+INFO - 20170111 14:52:48 --> Form Validation Class Initialized
+INFO - 20170111 14:52:48 --> Model Class Initialized
+INFO - 20170111 14:52:48 --> Database Driver Class Initialized
+DEBUG - 20170111 14:52:48 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+ERROR - 20170111 14:52:48 --> Query error: Operand should contain 1 column(s) - Invalid query: SELECT id,circle_id,user_id,type,abstract,content,status,create_time,banner FROM article WHERE 1=1  and status = ('101','102','103') 
+ERROR - 20170111 14:52:48 --> Severity: error --> Exception: Call to a member function row_array() on boolean /Users/rayqin/svn/scc/api/trunk/application/models/BaseModel.php 58
+INFO - 20170111 15:05:09 --> Config Class Initialized
+INFO - 20170111 15:05:09 --> Hooks Class Initialized
+DEBUG - 20170111 15:05:09 --> UTF-8 Support Enabled
+INFO - 20170111 15:05:09 --> Utf8 Class Initialized
+INFO - 20170111 15:05:09 --> URI Class Initialized
+INFO - 20170111 15:05:09 --> Router Class Initialized
+INFO - 20170111 15:05:09 --> Output Class Initialized
+INFO - 20170111 15:05:09 --> Security Class Initialized
+DEBUG - 20170111 15:05:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170111 15:05:09 --> Input Class Initialized
+INFO - 20170111 15:05:09 --> Language Class Initialized
+INFO - 20170111 15:05:09 --> Loader Class Initialized
+DEBUG - 20170111 15:05:09 --> cURL Class Initialized
+INFO - 20170111 15:05:09 --> Controller Class Initialized
+INFO - 20170111 15:05:09 --> Helper loaded: util_helper
+INFO - 20170111 15:05:09 --> Helper loaded: form_helper
+INFO - 20170111 15:05:09 --> Form Validation Class Initialized
+INFO - 20170111 15:05:09 --> Model Class Initialized
+INFO - 20170111 15:05:09 --> Database Driver Class Initialized
+DEBUG - 20170111 15:05:09 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+ERROR - 20170111 15:05:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'status <> 104' at line 1 - Invalid query: select id,circle_id,user_id,type,abstract,content,status,create_time,bannerfrom articlewhere status <> 104
+ERROR - 20170111 15:05:10 --> Severity: error --> Exception: Call to a member function result_array() on boolean /Users/rayqin/svn/scc/api/trunk/application/models/article/ArticleModel.php 163
+INFO - 20170111 15:05:28 --> Config Class Initialized
+INFO - 20170111 15:05:28 --> Hooks Class Initialized
+DEBUG - 20170111 15:05:28 --> UTF-8 Support Enabled
+INFO - 20170111 15:05:28 --> Utf8 Class Initialized
+INFO - 20170111 15:05:28 --> URI Class Initialized
+INFO - 20170111 15:05:28 --> Router Class Initialized
+INFO - 20170111 15:05:28 --> Output Class Initialized
+INFO - 20170111 15:05:28 --> Security Class Initialized
+DEBUG - 20170111 15:05:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170111 15:05:28 --> Input Class Initialized
+INFO - 20170111 15:05:28 --> Language Class Initialized
+INFO - 20170111 15:05:28 --> Loader Class Initialized
+DEBUG - 20170111 15:05:28 --> cURL Class Initialized
+INFO - 20170111 15:05:28 --> Controller Class Initialized
+INFO - 20170111 15:05:28 --> Helper loaded: util_helper
+INFO - 20170111 15:05:28 --> Helper loaded: form_helper
+INFO - 20170111 15:05:28 --> Form Validation Class Initialized
+INFO - 20170111 15:05:28 --> Model Class Initialized
+INFO - 20170111 15:05:28 --> Database Driver Class Initialized
+DEBUG - 20170111 15:05:28 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170111 15:05:28 --> Final output sent to browser
+DEBUG - 20170111 15:05:28 --> Total execution time: 0.1556
+INFO - 20170111 15:07:49 --> Config Class Initialized
+INFO - 20170111 15:07:49 --> Hooks Class Initialized
+DEBUG - 20170111 15:07:49 --> UTF-8 Support Enabled
+INFO - 20170111 15:07:49 --> Utf8 Class Initialized
+INFO - 20170111 15:07:49 --> URI Class Initialized
+INFO - 20170111 15:07:49 --> Router Class Initialized
+INFO - 20170111 15:07:49 --> Output Class Initialized
+INFO - 20170111 15:07:49 --> Security Class Initialized
+DEBUG - 20170111 15:07:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 20170111 15:07:49 --> Input Class Initialized
+INFO - 20170111 15:07:49 --> Language Class Initialized
+INFO - 20170111 15:07:49 --> Loader Class Initialized
+DEBUG - 20170111 15:07:49 --> cURL Class Initialized
+INFO - 20170111 15:07:49 --> Controller Class Initialized
+INFO - 20170111 15:07:49 --> Helper loaded: util_helper
+INFO - 20170111 15:07:49 --> Helper loaded: form_helper
+INFO - 20170111 15:07:49 --> Form Validation Class Initialized
+INFO - 20170111 15:07:49 --> Model Class Initialized
+INFO - 20170111 15:07:49 --> Database Driver Class Initialized
+DEBUG - 20170111 15:07:49 --> Config file loaded: /Users/rayqin/svn/scc/api/trunk/application/config/development/redis.php
+INFO - 20170111 15:07:49 --> Final output sent to browser
+DEBUG - 20170111 15:07:49 --> Total execution time: 0.1625

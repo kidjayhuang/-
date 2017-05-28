@@ -1,0 +1,5 @@
+<template name="button">
+  <view style="border:2rpx solid #4a90e2;width:200rpx;height:60rpx;align-items:center;justify-content:center;" class="color__blue radius__15 flex__row font-size__large" bindtap="{{handle}}">
+    <text>{{title}}</text>
+  </view>
+</template>

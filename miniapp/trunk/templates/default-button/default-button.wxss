@@ -1,0 +1,14 @@
+.default__button {
+  height: 90rpx;
+  justify-content: center;
+  align-items: center;
+  margin: 40rpx 30rpx 0 30rpx;
+  border: 3rpx solid #4a90e2;
+}
+.default__button-hover {
+  height: 90rpx;
+  justify-content: center;
+  align-items: center;
+  margin: 40rpx 30rpx 0 30rpx;
+  border: 3rpx solid #1e6bc4;
+}

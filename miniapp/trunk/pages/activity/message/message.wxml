@@ -1,0 +1,11 @@
+<import src="/templates/notification-cell/notification-cell.wxml" />
+<view>
+  <view id="navigationBarLine"></view>
+  <view wx:if="{{messages.list.length == 0}}" class="flex__col bg-color__white" style="position:absolute;width:100%;height:100%;align-items:center;">
+    <image style="margin-top:200rpx;width:300rpx;height:280rpx;" src="{{tip.image}}"></image>
+    <text class="color__gray font-size__medium" style="padding-top:20rpx;">{{tip.title}}</text>
+  </view>
+  <block wx:for="{{messages.list}}">
+    <template is="notification-cell" data="{{item:item,index:index,show:'showMessageDetail',agree:'agree'}}" />
+  </block>
+</view>

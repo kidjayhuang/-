@@ -1,0 +1,7 @@
+<import src="/templates/primary-button/primary-button.wxml" />
+<view class="flex__col" style="padding-top:20rpx;">
+  <view class="bg-color__white" style="padding:30rpx;30rpx;height:240rpx;">
+    <textarea placeholder="请填写拒绝理由" placeholder-style="color:#DCDCDC" style="width:100%;height:100%" class="font-size__x-large" bindinput="bindRemarkInput" />
+  </view>
+  <template is="primary-button" data="{{...button}}" />
+</view>

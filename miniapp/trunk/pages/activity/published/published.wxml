@@ -1,0 +1,19 @@
+<import src="/templates/message-cell/message-cell.wxml" />
+<import src="/templates/create-article-button/create-article-button.wxml" />
+<import src="/templates/published-cell/published-cell.wxml" />
+<import src="/templates/auth-view/auth-view.wxml" />
+<view id="navigationBarLine"></view>
+<view>
+  <template is="message-cell" data="{{...message}}" />
+  <template is="auth-view" data="{{auth}}"></template>
+  <view wx:if="{{activities.list.length == 0}}" class="flex__col bg-color__white" style="position:absolute;width:100%;height:100%;align-items:center;">
+    <image style="margin-top:200rpx;width:300rpx;height:280rpx;" src="{{tip.image}}"></image>
+    <text class="color__gray font-size__medium" style="padding-top:20rpx;">{{tip.title}}</text>
+  </view>
+  <view wx:if="{{activities.list.length > 0}}">
+    <block wx:for="{{activities.list}}" wx:key="list-{{index}}">
+      <template is="published-cell" data="{{item,index}}"></template>
+    </block>
+  </view>
+</view>
+<template wx:if="{{auth == 1}}" is="create-article-button" data="{{handle: 'create'}}" />

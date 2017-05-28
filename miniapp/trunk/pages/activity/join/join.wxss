@@ -1,0 +1,2 @@
+/* pages/activity/join/join.wxss */
+@import "/templates/primary-button/primary-button.wxss";

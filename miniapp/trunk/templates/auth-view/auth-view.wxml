@@ -1,0 +1,8 @@
+<template name="auth-view">
+  <view wx:if="{{auth == 2}}" class="flex__col font-size__medium bg-color__white" 
+  style="align-items:center;padding:0 30rpx;position:absolute;height:100%;">
+    <image class="icon__120" style="margin-top:100rpx;" src="/images/icon-logo.png"></image>
+    <text class="font__bold color__black font-size__large" style="padding-top: 30rpx;line-height: 48rpx;">小城生活</text>
+    <text style="padding-top:20rpx;text-align: center;line-height: 38rpx;" class="color__gray">小城活动需要获得你的公开信息（昵称、头像等）才能使用相关功能，如要重新授权需要先删除小城活动再重新打开</text>
+  </view>
+</template>

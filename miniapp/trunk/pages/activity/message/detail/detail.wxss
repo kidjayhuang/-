@@ -1,0 +1,7 @@
+/* pages/mine/message/detail/detail.wxss */
+@import "/templates/primary-button/primary-button.wxss";
+@import "/templates/default-button/default-button.wxss";
+
+page {
+    background-color:#efeff4;
+}

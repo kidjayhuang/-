@@ -1,0 +1,7 @@
+<template name="primary-button">
+  <view style="padding: 40rpx 30rpx 0 30rpx;background-color: {{color ? color : ''}};">
+    <view class="color__white b flex__row font-size__x-large radius__15 {{disable ? 'primary__button-disable' : 'primary__button'}}" hover="{{!disable}}" hover-class="primary__button-hover" bindtap="{{disable ? '' : handle || ''}}">
+      <text class="font-size__x-large color__white ">{{name || ''}}</text>
+    </view>
+  </view>
+</template>

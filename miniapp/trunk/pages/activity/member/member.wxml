@@ -1,0 +1,16 @@
+<import src="/templates/user-cell/user-cell.wxml" />
+<view id="navigationBarLine"></view>
+<view>
+  <view wx:if="{{members.member.length > 0}}">
+    <text class="font-size__medium color__gray member__group_title">已加入</text>
+    <block wx:for="{{members.member}}">
+      <template is="user-cell" data="{{...item, handle: 'showVerifyRemark'}}"></template>
+    </block>
+  </view>
+   <view wx:if="{{members.verify.length > 0}}">
+    <text class="font-size__medium color__gray member__group_title">待审核</text>
+    <block wx:for="{{members.verify}}">
+      <template is="user-cell" data="{{...item, handle: 'showVerifyInfo'}}"></template>
+    </block>
+  </view>
+</view>

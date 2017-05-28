@@ -1,0 +1,18 @@
+.create-article-button {
+    position:fixed;
+    bottom:10rpx;
+    right:10rpx;
+    justify-content: center;
+    align-items: center;
+    background-color: #4a90e2;
+    border: 1rpx solid #e5e5e5;
+}
+.create-article-button image {
+    width: 70rpx;
+    height: 56rpx;
+    flex-shrink: 0;
+}
+
+.create-article-button-hover {
+    background-color: #1e6bc4;
+}

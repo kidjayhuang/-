@@ -1,0 +1,29 @@
+<import src="/templates/create-article-button/create-article-button.wxml" />
+<import src="/templates/nearby-cell/nearby-cell.wxml" />
+<import src="/templates/auth-view/auth-view.wxml" />
+<view id="navigationBarLine"></view>
+<view>
+  <template is="auth-view" data="{{auth}}"></template>
+  <view wx:if="{{activities.list.length == 0}}" class="flex__col bg-color__white" style="position:absolute;width:100%;height:100%;align-items:center;">
+    <view wx:if="{{auth == 1}}" class="font-size__large bg-color__white" style="width:690rpx;line-height: 40rpx;padding: 40rpx 0;" bindtap="chooseLocation">
+      <view class="flex__row radius__30" style="height:60rpx;background-color: rgba(255, 187, 68, 0.1);align-items: center;padding: 0 20rpx;">
+        <image class="icon__44" src="/images/icon-location.png" />
+        <text style="padding-left: 10rpx;" class="font-nowrap">{{location.address + location.name}}</text>
+      </view>
+    </view>
+    <image style="margin-top:200rpx;width:300rpx;height:280rpx;" src="{{tip.image}}"></image>
+    <text class="color__gray font-size__medium" style="padding-top:20rpx;">{{tip.title}}</text>
+  </view>
+  <view wx:if="{{activities.list.length > 0}}">
+    <view wx:if="{{auth == 1}}" class="font-size__large bg-color__white" style="line-height: 40rpx;padding: 40rpx 30rpx;" bindtap="chooseLocation">
+      <view class="flex__row radius__30" style="height:60rpx;background-color: rgba(255, 187, 68, 0.1);align-items: center;padding: 0 20rpx;">
+        <image class="icon__44" src="/images/icon-location.png" />
+        <text style="padding-left: 10rpx;" class="font-nowrap">{{location.address + location.name}}</text>
+      </view>
+    </view>
+    <block wx:for="{{activities.list}}" wx:key="list-{{index}}">
+      <template is="nearby-cell" data="{{item,index}}"></template>
+    </block>
+  </view>
+</view>
+<template wx:if="{{auth == 1}}" is="create-article-button" data="{{handle: 'create'}}" />

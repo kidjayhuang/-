@@ -1,0 +1,13 @@
+<template name="member-cell">
+  <view data-id="{{user_id}}" class="flex__row bg-color__white" style="align-items:center;height:120rpx;padding:0 30rpx;border-bottom:1rpx solid #e5e5e5;">
+    <image class="icon__70 radius__half" src="{{avatar_url}}"></image>
+    <view class="flex__row" style="width:{{is_creator == 1 ? '590' : '540'}}rpx;align-items:center;">
+      <text class="font-size__x-large color__black font-nowrap" style="margin-left:20rpx">{{nick_name}}</text>
+      <view wx:if="{{is_creator == 1}}" style="width:70rpx;height:30rpx;margin-left:10rpx;flex-shrink:0;line-height:30rpx;text-align:center;" class="bg-color__blue color__white font-size__x-small">创建者</view>
+      <view wx:if="{{is_admin == 1}}" style="width:70rpx;height:30rpx;margin-left:10rpx;flex-shrink:0;line-height:30rpx;text-align:center;" class="bg-color__yellow color__white font-size__x-small">管理员</view>
+    </view>
+    <view wx:if="{{is_creator != 1}}" style="width:80rpx;height:80rpx;align-items:center;justify-content:center;" class="color__blue radius__15 flex__row font-size__large" bindtap="manage" data-id="{{user_id}}" data-member="{{is_member}}" data-remark="{{nick_name}}">
+      <image class="icon__44" src="/images/icon-mine-normal.png"></image>
+    </view>
+  </view>
+</template>

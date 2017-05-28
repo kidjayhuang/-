@@ -1,0 +1,22 @@
+INFO - 20161226 08:17:58 --> Config Class Initialized
+INFO - 20161226 08:17:58 --> Hooks Class Initialized
+DEBUG - 20161226 08:17:58 --> UTF-8 Support Enabled
+INFO - 20161226 08:17:58 --> Utf8 Class Initialized
+INFO - 20161226 08:17:58 --> URI Class Initialized
+DEBUG - 20161226 08:17:58 --> No URI present. Default controller set.
+INFO - 20161226 08:17:58 --> Router Class Initialized
+INFO - 20161226 08:17:58 --> Output Class Initialized
+INFO - 20161226 08:17:58 --> Security Class Initialized
+DEBUG - 20161226 08:17:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 20161226 08:17:58 --> Input Class Initialized
+INFO - 20161226 08:17:58 --> Language Class Initialized
+INFO - 20161226 08:17:59 --> Loader Class Initialized
+DEBUG - 20161226 08:17:59 --> cURL Class Initialized
+INFO - 20161226 08:17:59 --> Controller Class Initialized
+INFO - 20161226 08:17:59 --> Helper loaded: util_helper
+INFO - 20161226 08:17:59 --> Helper loaded: form_helper
+INFO - 20161226 08:17:59 --> Form Validation Class Initialized
+DEBUG - 20161226 08:17:59 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 20161226 08:17:59 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 20161226 08:17:59 --> Final output sent to browser
+DEBUG - 20161226 08:17:59 --> Total execution time: 0.0307

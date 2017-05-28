@@ -1,0 +1,23 @@
+.primary__button {
+  height: 90rpx;
+  justify-content: center;
+  align-items: center;
+  /*border: 3rpx solid #4a90e2;*/
+  background-color: #4a90e2;
+}
+.primary__button-hover {
+  height: 90rpx;
+  justify-content: center;
+  align-items: center;
+  /*border: 3rpx solid #1e6bc4;*/
+  background-color: #1e6bc4;
+}
+
+.primary__button-disable {
+  height: 90rpx;
+  justify-content: center;
+  align-items: center;
+  /*border: 3rpx solid #1e6bc4;*/
+  background-color: #1e6bc4;
+  opacity: 0.5;
+}
